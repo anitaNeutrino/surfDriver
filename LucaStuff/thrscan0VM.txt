@@ -1,0 +1,5200 @@
+Writing in DAC at address  172  value:  1500
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1500  M0V:     0
+Writing in DAC at address  172  value:  1501
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1501  M0V:     0
+Writing in DAC at address  172  value:  1502
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1502  M0V:     0
+Writing in DAC at address  172  value:  1503
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1503  M0V:     0
+Writing in DAC at address  172  value:  1504
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1504  M0V:     0
+Writing in DAC at address  172  value:  1505
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1505  M0V:     0
+Writing in DAC at address  172  value:  1506
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1506  M0V:     0
+Writing in DAC at address  172  value:  1507
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1507  M0V:     0
+Writing in DAC at address  172  value:  1508
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1508  M0V:     0
+Writing in DAC at address  172  value:  1509
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1509  M0V:     0
+Writing in DAC at address  172  value:  1510
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1510  M0V:     0
+Writing in DAC at address  172  value:  1511
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1511  M0V:     0
+Writing in DAC at address  172  value:  1512
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1512  M0V:     0
+Writing in DAC at address  172  value:  1513
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1513  M0V:     0
+Writing in DAC at address  172  value:  1514
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1514  M0V:     0
+Writing in DAC at address  172  value:  1515
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1515  M0V:     0
+Writing in DAC at address  172  value:  1516
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1516  M0V:     0
+Writing in DAC at address  172  value:  1517
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1517  M0V:     0
+Writing in DAC at address  172  value:  1518
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1518  M0V:     0
+Writing in DAC at address  172  value:  1519
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1519  M0V:     0
+Writing in DAC at address  172  value:  1520
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1520  M0V:     0
+Writing in DAC at address  172  value:  1521
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1521  M0V:     0
+Writing in DAC at address  172  value:  1522
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1522  M0V:     0
+Writing in DAC at address  172  value:  1523
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1523  M0V:     0
+Writing in DAC at address  172  value:  1524
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1524  M0V:     0
+Writing in DAC at address  172  value:  1525
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1525  M0V:     0
+Writing in DAC at address  172  value:  1526
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1526  M0V:     0
+Writing in DAC at address  172  value:  1527
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1527  M0V:     0
+Writing in DAC at address  172  value:  1528
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1528  M0V:     0
+Writing in DAC at address  172  value:  1529
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1529  M0V:     0
+Writing in DAC at address  172  value:  1530
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1530  M0V:     0
+Writing in DAC at address  172  value:  1531
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1531  M0V:     0
+Writing in DAC at address  172  value:  1532
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1532  M0V:     0
+Writing in DAC at address  172  value:  1533
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1533  M0V:     0
+Writing in DAC at address  172  value:  1534
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1534  M0V:     0
+Writing in DAC at address  172  value:  1535
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1535  M0V:     0
+Writing in DAC at address  172  value:  1536
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1536  M0V:     0
+Writing in DAC at address  172  value:  1537
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1537  M0V:     0
+Writing in DAC at address  172  value:  1538
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1538  M0V:     0
+Writing in DAC at address  172  value:  1539
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1539  M0V:     0
+Writing in DAC at address  172  value:  1540
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1540  M0V:     0
+Writing in DAC at address  172  value:  1541
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1541  M0V:     0
+Writing in DAC at address  172  value:  1542
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1542  M0V:     0
+Writing in DAC at address  172  value:  1543
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1543  M0V:     0
+Writing in DAC at address  172  value:  1544
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1544  M0V:     0
+Writing in DAC at address  172  value:  1545
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1545  M0V:     0
+Writing in DAC at address  172  value:  1546
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1546  M0V:     0
+Writing in DAC at address  172  value:  1547
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1547  M0V:     0
+Writing in DAC at address  172  value:  1548
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1548  M0V:     0
+Writing in DAC at address  172  value:  1549
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1549  M0V:     0
+Writing in DAC at address  172  value:  1550
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1550  M0V:     0
+Writing in DAC at address  172  value:  1551
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1551  M0V:     0
+Writing in DAC at address  172  value:  1552
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1552  M0V:     0
+Writing in DAC at address  172  value:  1553
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1553  M0V:     0
+Writing in DAC at address  172  value:  1554
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1554  M0V:     0
+Writing in DAC at address  172  value:  1555
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1555  M0V:     0
+Writing in DAC at address  172  value:  1556
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1556  M0V:     0
+Writing in DAC at address  172  value:  1557
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1557  M0V:     0
+Writing in DAC at address  172  value:  1558
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1558  M0V:     0
+Writing in DAC at address  172  value:  1559
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1559  M0V:     0
+Writing in DAC at address  172  value:  1560
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1560  M0V:     0
+Writing in DAC at address  172  value:  1561
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1561  M0V:     0
+Writing in DAC at address  172  value:  1562
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1562  M0V:     0
+Writing in DAC at address  172  value:  1563
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1563  M0V:     0
+Writing in DAC at address  172  value:  1564
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1564  M0V:     0
+Writing in DAC at address  172  value:  1565
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1565  M0V:     0
+Writing in DAC at address  172  value:  1566
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1566  M0V:     0
+Writing in DAC at address  172  value:  1567
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1567  M0V:     0
+Writing in DAC at address  172  value:  1568
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1568  M0V:     0
+Writing in DAC at address  172  value:  1569
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1569  M0V:     0
+Writing in DAC at address  172  value:  1570
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1570  M0V:     0
+Writing in DAC at address  172  value:  1571
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1571  M0V:     0
+Writing in DAC at address  172  value:  1572
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1572  M0V:     0
+Writing in DAC at address  172  value:  1573
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1573  M0V:     0
+Writing in DAC at address  172  value:  1574
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1574  M0V:     0
+Writing in DAC at address  172  value:  1575
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1575  M0V:     0
+Writing in DAC at address  172  value:  1576
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1576  M0V:     0
+Writing in DAC at address  172  value:  1577
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1577  M0V:     0
+Writing in DAC at address  172  value:  1578
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1578  M0V:     0
+Writing in DAC at address  172  value:  1579
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1579  M0V:     0
+Writing in DAC at address  172  value:  1580
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1580  M0V:     0
+Writing in DAC at address  172  value:  1581
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1581  M0V:     0
+Writing in DAC at address  172  value:  1582
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1582  M0V:     0
+Writing in DAC at address  172  value:  1583
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1583  M0V:     0
+Writing in DAC at address  172  value:  1584
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1584  M0V:     0
+Writing in DAC at address  172  value:  1585
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1585  M0V:     0
+Writing in DAC at address  172  value:  1586
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1586  M0V:     0
+Writing in DAC at address  172  value:  1587
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1587  M0V:     0
+Writing in DAC at address  172  value:  1588
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1588  M0V:     0
+Writing in DAC at address  172  value:  1589
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1589  M0V:     0
+Writing in DAC at address  172  value:  1590
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1590  M0V:     0
+Writing in DAC at address  172  value:  1591
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1591  M0V:     0
+Writing in DAC at address  172  value:  1592
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1592  M0V:     0
+Writing in DAC at address  172  value:  1593
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1593  M0V:     0
+Writing in DAC at address  172  value:  1594
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1594  M0V:     0
+Writing in DAC at address  172  value:  1595
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1595  M0V:     0
+Writing in DAC at address  172  value:  1596
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1596  M0V:     0
+Writing in DAC at address  172  value:  1597
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1597  M0V:     0
+Writing in DAC at address  172  value:  1598
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1598  M0V:     0
+Writing in DAC at address  172  value:  1599
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1599  M0V:     0
+Writing in DAC at address  172  value:  1600
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1600  M0V:     0
+Writing in DAC at address  172  value:  1601
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1601  M0V:     0
+Writing in DAC at address  172  value:  1602
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1602  M0V:     0
+Writing in DAC at address  172  value:  1603
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1603  M0V:     0
+Writing in DAC at address  172  value:  1604
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1604  M0V:     0
+Writing in DAC at address  172  value:  1605
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1605  M0V:     0
+Writing in DAC at address  172  value:  1606
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1606  M0V:     0
+Writing in DAC at address  172  value:  1607
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1607  M0V:     0
+Writing in DAC at address  172  value:  1608
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1608  M0V:     0
+Writing in DAC at address  172  value:  1609
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1609  M0V:     0
+Writing in DAC at address  172  value:  1610
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1610  M0V:     0
+Writing in DAC at address  172  value:  1611
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1611  M0V:     0
+Writing in DAC at address  172  value:  1612
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1612  M0V:     0
+Writing in DAC at address  172  value:  1613
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1613  M0V:     0
+Writing in DAC at address  172  value:  1614
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1614  M0V:     0
+Writing in DAC at address  172  value:  1615
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1615  M0V:     0
+Writing in DAC at address  172  value:  1616
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1616  M0V:     0
+Writing in DAC at address  172  value:  1617
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1617  M0V:     0
+Writing in DAC at address  172  value:  1618
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1618  M0V:     0
+Writing in DAC at address  172  value:  1619
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1619  M0V:     0
+Writing in DAC at address  172  value:  1620
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1620  M0V:     0
+Writing in DAC at address  172  value:  1621
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1621  M0V:     0
+Writing in DAC at address  172  value:  1622
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1622  M0V:     0
+Writing in DAC at address  172  value:  1623
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1623  M0V:     0
+Writing in DAC at address  172  value:  1624
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1624  M0V:     0
+Writing in DAC at address  172  value:  1625
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1625  M0V:     0
+Writing in DAC at address  172  value:  1626
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1626  M0V:     0
+Writing in DAC at address  172  value:  1627
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1627  M0V:     0
+Writing in DAC at address  172  value:  1628
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1628  M0V:     0
+Writing in DAC at address  172  value:  1629
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1629  M0V:     0
+Writing in DAC at address  172  value:  1630
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1630  M0V:     0
+Writing in DAC at address  172  value:  1631
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1631  M0V:     0
+Writing in DAC at address  172  value:  1632
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1632  M0V:     0
+Writing in DAC at address  172  value:  1633
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1633  M0V:     0
+Writing in DAC at address  172  value:  1634
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1634  M0V:     0
+Writing in DAC at address  172  value:  1635
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1635  M0V:     0
+Writing in DAC at address  172  value:  1636
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1636  M0V:     0
+Writing in DAC at address  172  value:  1637
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1637  M0V:     0
+Writing in DAC at address  172  value:  1638
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1638  M0V:     0
+Writing in DAC at address  172  value:  1639
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1639  M0V:     0
+Writing in DAC at address  172  value:  1640
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1640  M0V:     0
+Writing in DAC at address  172  value:  1641
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1641  M0V:     0
+Writing in DAC at address  172  value:  1642
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1642  M0V:     0
+Writing in DAC at address  172  value:  1643
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1643  M0V:     0
+Writing in DAC at address  172  value:  1644
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1644  M0V:     0
+Writing in DAC at address  172  value:  1645
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1645  M0V:     0
+Writing in DAC at address  172  value:  1646
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1646  M0V:     0
+Writing in DAC at address  172  value:  1647
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1647  M0V:     0
+Writing in DAC at address  172  value:  1648
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1648  M0V:     0
+Writing in DAC at address  172  value:  1649
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1649  M0V:     0
+Writing in DAC at address  172  value:  1650
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1650  M0V:     0
+Writing in DAC at address  172  value:  1651
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1651  M0V:     0
+Writing in DAC at address  172  value:  1652
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1652  M0V:     0
+Writing in DAC at address  172  value:  1653
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1653  M0V:     0
+Writing in DAC at address  172  value:  1654
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1654  M0V:     0
+Writing in DAC at address  172  value:  1655
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1655  M0V:     0
+Writing in DAC at address  172  value:  1656
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1656  M0V:     0
+Writing in DAC at address  172  value:  1657
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1657  M0V:     0
+Writing in DAC at address  172  value:  1658
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1658  M0V:     0
+Writing in DAC at address  172  value:  1659
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1659  M0V:     0
+Writing in DAC at address  172  value:  1660
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1660  M0V:     0
+Writing in DAC at address  172  value:  1661
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1661  M0V:     0
+Writing in DAC at address  172  value:  1662
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1662  M0V:     0
+Writing in DAC at address  172  value:  1663
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1663  M0V:     0
+Writing in DAC at address  172  value:  1664
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1664  M0V:     0
+Writing in DAC at address  172  value:  1665
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1665  M0V:     0
+Writing in DAC at address  172  value:  1666
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1666  M0V:     0
+Writing in DAC at address  172  value:  1667
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1667  M0V:     0
+Writing in DAC at address  172  value:  1668
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1668  M0V:     0
+Writing in DAC at address  172  value:  1669
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1669  M0V:     0
+Writing in DAC at address  172  value:  1670
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1670  M0V:     0
+Writing in DAC at address  172  value:  1671
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1671  M0V:     0
+Writing in DAC at address  172  value:  1672
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1672  M0V:     0
+Writing in DAC at address  172  value:  1673
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1673  M0V:     0
+Writing in DAC at address  172  value:  1674
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1674  M0V:     0
+Writing in DAC at address  172  value:  1675
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1675  M0V:     0
+Writing in DAC at address  172  value:  1676
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1676  M0V:     0
+Writing in DAC at address  172  value:  1677
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1677  M0V:     0
+Writing in DAC at address  172  value:  1678
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1678  M0V:     0
+Writing in DAC at address  172  value:  1679
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1679  M0V:     0
+Writing in DAC at address  172  value:  1680
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1680  M0V:     0
+Writing in DAC at address  172  value:  1681
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1681  M0V:     0
+Writing in DAC at address  172  value:  1682
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1682  M0V:     0
+Writing in DAC at address  172  value:  1683
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1683  M0V:     0
+Writing in DAC at address  172  value:  1684
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1684  M0V:     0
+Writing in DAC at address  172  value:  1685
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1685  M0V:     0
+Writing in DAC at address  172  value:  1686
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1686  M0V:     0
+Writing in DAC at address  172  value:  1687
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1687  M0V:     0
+Writing in DAC at address  172  value:  1688
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1688  M0V:     0
+Writing in DAC at address  172  value:  1689
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1689  M0V:     0
+Writing in DAC at address  172  value:  1690
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1690  M0V:     0
+Writing in DAC at address  172  value:  1691
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1691  M0V:     0
+Writing in DAC at address  172  value:  1692
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1692  M0V:     0
+Writing in DAC at address  172  value:  1693
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1693  M0V:     0
+Writing in DAC at address  172  value:  1694
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1694  M0V:     0
+Writing in DAC at address  172  value:  1695
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1695  M0V:     0
+Writing in DAC at address  172  value:  1696
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1696  M0V:     0
+Writing in DAC at address  172  value:  1697
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1697  M0V:     0
+Writing in DAC at address  172  value:  1698
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1698  M0V:     0
+Writing in DAC at address  172  value:  1699
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1699  M0V:     0
+Writing in DAC at address  172  value:  1700
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1700  M0V:     0
+Writing in DAC at address  172  value:  1701
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1701  M0V:     0
+Writing in DAC at address  172  value:  1702
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1702  M0V:     0
+Writing in DAC at address  172  value:  1703
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1703  M0V:     0
+Writing in DAC at address  172  value:  1704
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1704  M0V:     0
+Writing in DAC at address  172  value:  1705
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1705  M0V:     0
+Writing in DAC at address  172  value:  1706
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1706  M0V:     0
+Writing in DAC at address  172  value:  1707
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1707  M0V:     0
+Writing in DAC at address  172  value:  1708
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1708  M0V:     0
+Writing in DAC at address  172  value:  1709
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1709  M0V:     0
+Writing in DAC at address  172  value:  1710
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1710  M0V:     0
+Writing in DAC at address  172  value:  1711
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1711  M0V:     0
+Writing in DAC at address  172  value:  1712
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1712  M0V:     0
+Writing in DAC at address  172  value:  1713
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1713  M0V:     0
+Writing in DAC at address  172  value:  1714
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1714  M0V:     0
+Writing in DAC at address  172  value:  1715
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1715  M0V:     0
+Writing in DAC at address  172  value:  1716
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1716  M0V:     0
+Writing in DAC at address  172  value:  1717
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1717  M0V:     0
+Writing in DAC at address  172  value:  1718
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1718  M0V:     0
+Writing in DAC at address  172  value:  1719
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1719  M0V:     0
+Writing in DAC at address  172  value:  1720
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1720  M0V:     0
+Writing in DAC at address  172  value:  1721
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1721  M0V:     0
+Writing in DAC at address  172  value:  1722
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1722  M0V:     0
+Writing in DAC at address  172  value:  1723
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1723  M0V:     0
+Writing in DAC at address  172  value:  1724
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1724  M0V:     0
+Writing in DAC at address  172  value:  1725
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1725  M0V:     0
+Writing in DAC at address  172  value:  1726
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+1726  M0V:     0
+Writing in DAC at address  172  value:  1727
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1727  M0V:     0
+Writing in DAC at address  172  value:  1728
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1728  M0V:     0
+Writing in DAC at address  172  value:  1729
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1729  M0V:     0
+Writing in DAC at address  172  value:  1730
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1730  M0V:     0
+Writing in DAC at address  172  value:  1731
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1731  M0V:     0
+Writing in DAC at address  172  value:  1732
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1732  M0V:     0
+Writing in DAC at address  172  value:  1733
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1733  M0V:     0
+Writing in DAC at address  172  value:  1734
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1734  M0V:     0
+Writing in DAC at address  172  value:  1735
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1735  M0V:     0
+Writing in DAC at address  172  value:  1736
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1736  M0V:     0
+Writing in DAC at address  172  value:  1737
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1737  M0V:     0
+Writing in DAC at address  172  value:  1738
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1738  M0V:     0
+Writing in DAC at address  172  value:  1739
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1739  M0V:     0
+Writing in DAC at address  172  value:  1740
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1740  M0V:     0
+Writing in DAC at address  172  value:  1741
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1741  M0V:     0
+Writing in DAC at address  172  value:  1742
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1742  M0V:     0
+Writing in DAC at address  172  value:  1743
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1743  M0V:     0
+Writing in DAC at address  172  value:  1744
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1744  M0V:     0
+Writing in DAC at address  172  value:  1745
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1745  M0V:     0
+Writing in DAC at address  172  value:  1746
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1746  M0V:     0
+Writing in DAC at address  172  value:  1747
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1747  M0V:     0
+Writing in DAC at address  172  value:  1748
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1748  M0V:     0
+Writing in DAC at address  172  value:  1749
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1749  M0V:     0
+Writing in DAC at address  172  value:  1750
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1750  M0V:     0
+Writing in DAC at address  172  value:  1751
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1751  M0V:     0
+Writing in DAC at address  172  value:  1752
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1752  M0V:     0
+Writing in DAC at address  172  value:  1753
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1753  M0V:     0
+Writing in DAC at address  172  value:  1754
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1754  M0V:     0
+Writing in DAC at address  172  value:  1755
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1755  M0V:     0
+Writing in DAC at address  172  value:  1756
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1756  M0V:     0
+Writing in DAC at address  172  value:  1757
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1757  M0V:     0
+Writing in DAC at address  172  value:  1758
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1758  M0V:     0
+Writing in DAC at address  172  value:  1759
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1759  M0V:     0
+Writing in DAC at address  172  value:  1760
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1760  M0V:     0
+Writing in DAC at address  172  value:  1761
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1761  M0V:     0
+Writing in DAC at address  172  value:  1762
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1762  M0V:     0
+Writing in DAC at address  172  value:  1763
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1763  M0V:     0
+Writing in DAC at address  172  value:  1764
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1764  M0V:     0
+Writing in DAC at address  172  value:  1765
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1765  M0V:     0
+Writing in DAC at address  172  value:  1766
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1766  M0V:     0
+Writing in DAC at address  172  value:  1767
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1767  M0V:     0
+Writing in DAC at address  172  value:  1768
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1768  M0V:     0
+Writing in DAC at address  172  value:  1769
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1769  M0V:     0
+Writing in DAC at address  172  value:  1770
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1770  M0V:     0
+Writing in DAC at address  172  value:  1771
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1771  M0V:     0
+Writing in DAC at address  172  value:  1772
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1772  M0V:     0
+Writing in DAC at address  172  value:  1773
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1773  M0V:     0
+Writing in DAC at address  172  value:  1774
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1774  M0V:     0
+Writing in DAC at address  172  value:  1775
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1775  M0V:     0
+Writing in DAC at address  172  value:  1776
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1776  M0V:     0
+Writing in DAC at address  172  value:  1777
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+1777  M0V:     0
+Writing in DAC at address  172  value:  1778
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1778  M0V:     0
+Writing in DAC at address  172  value:  1779
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1779  M0V:     0
+Writing in DAC at address  172  value:  1780
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1780  M0V:     0
+Writing in DAC at address  172  value:  1781
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1781  M0V:     0
+Writing in DAC at address  172  value:  1782
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1782  M0V:     1
+Writing in DAC at address  172  value:  1783
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1783  M0V:     5
+Writing in DAC at address  172  value:  1784
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1784  M0V:    19
+Writing in DAC at address  172  value:  1785
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1785  M0V:    30
+Writing in DAC at address  172  value:  1786
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1786  M0V:    37
+Writing in DAC at address  172  value:  1787
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1787  M0V:    38
+Writing in DAC at address  172  value:  1788
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1788  M0V:    39
+Writing in DAC at address  172  value:  1789
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1789  M0V:    39
+Writing in DAC at address  172  value:  1790
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1790  M0V:    39
+Writing in DAC at address  172  value:  1791
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1791  M0V:    39
+Writing in DAC at address  172  value:  1792
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1792  M0V:    39
+Writing in DAC at address  172  value:  1793
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1793  M0V:    39
+Writing in DAC at address  172  value:  1794
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1794  M0V:    39
+Writing in DAC at address  172  value:  1795
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1795  M0V:    39
+Writing in DAC at address  172  value:  1796
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1796  M0V:    39
+Writing in DAC at address  172  value:  1797
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1797  M0V:    39
+Writing in DAC at address  172  value:  1798
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1798  M0V:    39
+Writing in DAC at address  172  value:  1799
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1799  M0V:    39
+Writing in DAC at address  172  value:  1800
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1800  M0V:    39
+Writing in DAC at address  172  value:  1801
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1801  M0V:    39
+Writing in DAC at address  172  value:  1802
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1802  M0V:    39
+Writing in DAC at address  172  value:  1803
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1803  M0V:    39
+Writing in DAC at address  172  value:  1804
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1804  M0V:    39
+Writing in DAC at address  172  value:  1805
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1805  M0V:    39
+Writing in DAC at address  172  value:  1806
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1806  M0V:    39
+Writing in DAC at address  172  value:  1807
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1807  M0V:    39
+Writing in DAC at address  172  value:  1808
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1808  M0V:    39
+Writing in DAC at address  172  value:  1809
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1809  M0V:    39
+Writing in DAC at address  172  value:  1810
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1810  M0V:    39
+Writing in DAC at address  172  value:  1811
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1811  M0V:    39
+Writing in DAC at address  172  value:  1812
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1812  M0V:    39
+Writing in DAC at address  172  value:  1813
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1813  M0V:    39
+Writing in DAC at address  172  value:  1814
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1814  M0V:    39
+Writing in DAC at address  172  value:  1815
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1815  M0V:    39
+Writing in DAC at address  172  value:  1816
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1816  M0V:    39
+Writing in DAC at address  172  value:  1817
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1817  M0V:    39
+Writing in DAC at address  172  value:  1818
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1818  M0V:    39
+Writing in DAC at address  172  value:  1819
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1819  M0V:    39
+Writing in DAC at address  172  value:  1820
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+1820  M0V:    39
+Writing in DAC at address  172  value:  1821
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1821  M0V:    39
+Writing in DAC at address  172  value:  1822
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1822  M0V:    39
+Writing in DAC at address  172  value:  1823
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1823  M0V:    39
+Writing in DAC at address  172  value:  1824
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1824  M0V:    39
+Writing in DAC at address  172  value:  1825
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1825  M0V:    39
+Writing in DAC at address  172  value:  1826
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1826  M0V:    39
+Writing in DAC at address  172  value:  1827
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1827  M0V:    39
+Writing in DAC at address  172  value:  1828
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1828  M0V:    39
+Writing in DAC at address  172  value:  1829
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1829  M0V:    39
+Writing in DAC at address  172  value:  1830
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1830  M0V:    39
+Writing in DAC at address  172  value:  1831
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1831  M0V:    39
+Writing in DAC at address  172  value:  1832
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1832  M0V:    39
+Writing in DAC at address  172  value:  1833
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1833  M0V:    39
+Writing in DAC at address  172  value:  1834
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1834  M0V:    39
+Writing in DAC at address  172  value:  1835
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1835  M0V:    39
+Writing in DAC at address  172  value:  1836
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1836  M0V:    39
+Writing in DAC at address  172  value:  1837
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1837  M0V:    39
+Writing in DAC at address  172  value:  1838
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1838  M0V:    39
+Writing in DAC at address  172  value:  1839
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1839  M0V:    39
+Writing in DAC at address  172  value:  1840
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1840  M0V:    39
+Writing in DAC at address  172  value:  1841
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1841  M0V:    39
+Writing in DAC at address  172  value:  1842
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1842  M0V:    39
+Writing in DAC at address  172  value:  1843
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1843  M0V:    39
+Writing in DAC at address  172  value:  1844
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1844  M0V:    39
+Writing in DAC at address  172  value:  1845
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1845  M0V:    39
+Writing in DAC at address  172  value:  1846
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1846  M0V:    39
+Writing in DAC at address  172  value:  1847
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1847  M0V:    39
+Writing in DAC at address  172  value:  1848
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1848  M0V:    39
+Writing in DAC at address  172  value:  1849
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1849  M0V:    39
+Writing in DAC at address  172  value:  1850
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1850  M0V:    39
+Writing in DAC at address  172  value:  1851
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1851  M0V:    39
+Writing in DAC at address  172  value:  1852
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1852  M0V:    39
+Writing in DAC at address  172  value:  1853
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1853  M0V:    39
+Writing in DAC at address  172  value:  1854
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1854  M0V:    39
+Writing in DAC at address  172  value:  1855
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1855  M0V:    39
+Writing in DAC at address  172  value:  1856
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1856  M0V:    39
+Writing in DAC at address  172  value:  1857
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1857  M0V:    39
+Writing in DAC at address  172  value:  1858
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1858  M0V:    39
+Writing in DAC at address  172  value:  1859
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1859  M0V:    39
+Writing in DAC at address  172  value:  1860
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1860  M0V:    39
+Writing in DAC at address  172  value:  1861
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1861  M0V:    39
+Writing in DAC at address  172  value:  1862
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1862  M0V:    39
+Writing in DAC at address  172  value:  1863
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1863  M0V:    39
+Writing in DAC at address  172  value:  1864
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1864  M0V:    39
+Writing in DAC at address  172  value:  1865
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1865  M0V:    39
+Writing in DAC at address  172  value:  1866
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1866  M0V:    39
+Writing in DAC at address  172  value:  1867
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1867  M0V:    39
+Writing in DAC at address  172  value:  1868
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1868  M0V:    39
+Writing in DAC at address  172  value:  1869
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1869  M0V:    39
+Writing in DAC at address  172  value:  1870
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+1870  M0V:    39
+Writing in DAC at address  172  value:  1871
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1871  M0V:    39
+Writing in DAC at address  172  value:  1872
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1872  M0V:    39
+Writing in DAC at address  172  value:  1873
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1873  M0V:    39
+Writing in DAC at address  172  value:  1874
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1874  M0V:    39
+Writing in DAC at address  172  value:  1875
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1875  M0V:    39
+Writing in DAC at address  172  value:  1876
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1876  M0V:    39
+Writing in DAC at address  172  value:  1877
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1877  M0V:    39
+Writing in DAC at address  172  value:  1878
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1878  M0V:    39
+Writing in DAC at address  172  value:  1879
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1879  M0V:    39
+Writing in DAC at address  172  value:  1880
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1880  M0V:    39
+Writing in DAC at address  172  value:  1881
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1881  M0V:    39
+Writing in DAC at address  172  value:  1882
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1882  M0V:    39
+Writing in DAC at address  172  value:  1883
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1883  M0V:    39
+Writing in DAC at address  172  value:  1884
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1884  M0V:    39
+Writing in DAC at address  172  value:  1885
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1885  M0V:    39
+Writing in DAC at address  172  value:  1886
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1886  M0V:    39
+Writing in DAC at address  172  value:  1887
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1887  M0V:    39
+Writing in DAC at address  172  value:  1888
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1888  M0V:    39
+Writing in DAC at address  172  value:  1889
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1889  M0V:    39
+Writing in DAC at address  172  value:  1890
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1890  M0V:    39
+Writing in DAC at address  172  value:  1891
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1891  M0V:    39
+Writing in DAC at address  172  value:  1892
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1892  M0V:    39
+Writing in DAC at address  172  value:  1893
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1893  M0V:    39
+Writing in DAC at address  172  value:  1894
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1894  M0V:    39
+Writing in DAC at address  172  value:  1895
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1895  M0V:    39
+Writing in DAC at address  172  value:  1896
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1896  M0V:    39
+Writing in DAC at address  172  value:  1897
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1897  M0V:    39
+Writing in DAC at address  172  value:  1898
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1898  M0V:    39
+Writing in DAC at address  172  value:  1899
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1899  M0V:    39
+Writing in DAC at address  172  value:  1900
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1900  M0V:    39
+Writing in DAC at address  172  value:  1901
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1901  M0V:    39
+Writing in DAC at address  172  value:  1902
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1902  M0V:    39
+Writing in DAC at address  172  value:  1903
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1903  M0V:    39
+Writing in DAC at address  172  value:  1904
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1904  M0V:    39
+Writing in DAC at address  172  value:  1905
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1905  M0V:    39
+Writing in DAC at address  172  value:  1906
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1906  M0V:    39
+Writing in DAC at address  172  value:  1907
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1907  M0V:    39
+Writing in DAC at address  172  value:  1908
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1908  M0V:    39
+Writing in DAC at address  172  value:  1909
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1909  M0V:    39
+Writing in DAC at address  172  value:  1910
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1910  M0V:    39
+Writing in DAC at address  172  value:  1911
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1911  M0V:    39
+Writing in DAC at address  172  value:  1912
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1912  M0V:    39
+Writing in DAC at address  172  value:  1913
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1913  M0V:    39
+Writing in DAC at address  172  value:  1914
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1914  M0V:    39
+Writing in DAC at address  172  value:  1915
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1915  M0V:    39
+Writing in DAC at address  172  value:  1916
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1916  M0V:    39
+Writing in DAC at address  172  value:  1917
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1917  M0V:    39
+Writing in DAC at address  172  value:  1918
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1918  M0V:    39
+Writing in DAC at address  172  value:  1919
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1919  M0V:    39
+Writing in DAC at address  172  value:  1920
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1920  M0V:    39
+Writing in DAC at address  172  value:  1921
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1921  M0V:    39
+Writing in DAC at address  172  value:  1922
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1922  M0V:    39
+Writing in DAC at address  172  value:  1923
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1923  M0V:    39
+Writing in DAC at address  172  value:  1924
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1924  M0V:    39
+Writing in DAC at address  172  value:  1925
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1925  M0V:    39
+Writing in DAC at address  172  value:  1926
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1926  M0V:    39
+Writing in DAC at address  172  value:  1927
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1927  M0V:    39
+Writing in DAC at address  172  value:  1928
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1928  M0V:    39
+Writing in DAC at address  172  value:  1929
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1929  M0V:    39
+Writing in DAC at address  172  value:  1930
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1930  M0V:    39
+Writing in DAC at address  172  value:  1931
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1931  M0V:    39
+Writing in DAC at address  172  value:  1932
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1932  M0V:    39
+Writing in DAC at address  172  value:  1933
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1933  M0V:    39
+Writing in DAC at address  172  value:  1934
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1934  M0V:    39
+Writing in DAC at address  172  value:  1935
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1935  M0V:    39
+Writing in DAC at address  172  value:  1936
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1936  M0V:    39
+Writing in DAC at address  172  value:  1937
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1937  M0V:    39
+Writing in DAC at address  172  value:  1938
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1938  M0V:    39
+Writing in DAC at address  172  value:  1939
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1939  M0V:    39
+Writing in DAC at address  172  value:  1940
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1940  M0V:    39
+Writing in DAC at address  172  value:  1941
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1941  M0V:    39
+Writing in DAC at address  172  value:  1942
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1942  M0V:    39
+Writing in DAC at address  172  value:  1943
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1943  M0V:    39
+Writing in DAC at address  172  value:  1944
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1944  M0V:    39
+Writing in DAC at address  172  value:  1945
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1945  M0V:    39
+Writing in DAC at address  172  value:  1946
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1946  M0V:    39
+Writing in DAC at address  172  value:  1947
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1947  M0V:    39
+Writing in DAC at address  172  value:  1948
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1948  M0V:    39
+Writing in DAC at address  172  value:  1949
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1949  M0V:    39
+Writing in DAC at address  172  value:  1950
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1950  M0V:    39
+Writing in DAC at address  172  value:  1951
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1951  M0V:    39
+Writing in DAC at address  172  value:  1952
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1952  M0V:    39
+Writing in DAC at address  172  value:  1953
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1953  M0V:    39
+Writing in DAC at address  172  value:  1954
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1954  M0V:    39
+Writing in DAC at address  172  value:  1955
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1955  M0V:    39
+Writing in DAC at address  172  value:  1956
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1956  M0V:    39
+Writing in DAC at address  172  value:  1957
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1957  M0V:    39
+Writing in DAC at address  172  value:  1958
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1958  M0V:    39
+Writing in DAC at address  172  value:  1959
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1959  M0V:    39
+Writing in DAC at address  172  value:  1960
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1960  M0V:    39
+Writing in DAC at address  172  value:  1961
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1961  M0V:    39
+Writing in DAC at address  172  value:  1962
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1962  M0V:    39
+Writing in DAC at address  172  value:  1963
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1963  M0V:    39
+Writing in DAC at address  172  value:  1964
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1964  M0V:    39
+Writing in DAC at address  172  value:  1965
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1965  M0V:    39
+Writing in DAC at address  172  value:  1966
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1966  M0V:    39
+Writing in DAC at address  172  value:  1967
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1967  M0V:    39
+Writing in DAC at address  172  value:  1968
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1968  M0V:    39
+Writing in DAC at address  172  value:  1969
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1969  M0V:    39
+Writing in DAC at address  172  value:  1970
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1970  M0V:    39
+Writing in DAC at address  172  value:  1971
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1971  M0V:    39
+Writing in DAC at address  172  value:  1972
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1972  M0V:    39
+Writing in DAC at address  172  value:  1973
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1973  M0V:    39
+Writing in DAC at address  172  value:  1974
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1974  M0V:    39
+Writing in DAC at address  172  value:  1975
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1975  M0V:    39
+Writing in DAC at address  172  value:  1976
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1976  M0V:    39
+Writing in DAC at address  172  value:  1977
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1977  M0V:    39
+Writing in DAC at address  172  value:  1978
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1978  M0V:    39
+Writing in DAC at address  172  value:  1979
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1979  M0V:    39
+Writing in DAC at address  172  value:  1980
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1980  M0V:    39
+Writing in DAC at address  172  value:  1981
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1981  M0V:    39
+Writing in DAC at address  172  value:  1982
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1982  M0V:    39
+Writing in DAC at address  172  value:  1983
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1983  M0V:    39
+Writing in DAC at address  172  value:  1984
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1984  M0V:    39
+Writing in DAC at address  172  value:  1985
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1985  M0V:    39
+Writing in DAC at address  172  value:  1986
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1986  M0V:    39
+Writing in DAC at address  172  value:  1987
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1987  M0V:    39
+Writing in DAC at address  172  value:  1988
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1988  M0V:    39
+Writing in DAC at address  172  value:  1989
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1989  M0V:    39
+Writing in DAC at address  172  value:  1990
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1990  M0V:    39
+Writing in DAC at address  172  value:  1991
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1991  M0V:    39
+Writing in DAC at address  172  value:  1992
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1992  M0V:    39
+Writing in DAC at address  172  value:  1993
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1993  M0V:    39
+Writing in DAC at address  172  value:  1994
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1994  M0V:    39
+Writing in DAC at address  172  value:  1995
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1995  M0V:    39
+Writing in DAC at address  172  value:  1996
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1996  M0V:    39
+Writing in DAC at address  172  value:  1997
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1997  M0V:    39
+Writing in DAC at address  172  value:  1998
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1998  M0V:    39
+Writing in DAC at address  172  value:  1999
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+1999  M0V:    39
+Writing in DAC at address  172  value:  2000
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2000  M0V:    39
+Writing in DAC at address  172  value:  2001
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2001  M0V:    39
+Writing in DAC at address  172  value:  2002
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2002  M0V:    39
+Writing in DAC at address  172  value:  2003
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2003  M0V:    39
+Writing in DAC at address  172  value:  2004
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2004  M0V:    39
+Writing in DAC at address  172  value:  2005
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2005  M0V:    39
+Writing in DAC at address  172  value:  2006
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2006  M0V:    39
+Writing in DAC at address  172  value:  2007
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2007  M0V:    39
+Writing in DAC at address  172  value:  2008
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2008  M0V:    39
+Writing in DAC at address  172  value:  2009
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2009  M0V:    39
+Writing in DAC at address  172  value:  2010
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2010  M0V:    39
+Writing in DAC at address  172  value:  2011
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2011  M0V:    39
+Writing in DAC at address  172  value:  2012
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2012  M0V:    39
+Writing in DAC at address  172  value:  2013
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2013  M0V:    39
+Writing in DAC at address  172  value:  2014
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2014  M0V:    39
+Writing in DAC at address  172  value:  2015
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2015  M0V:    39
+Writing in DAC at address  172  value:  2016
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2016  M0V:    39
+Writing in DAC at address  172  value:  2017
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2017  M0V:    39
+Writing in DAC at address  172  value:  2018
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2018  M0V:    39
+Writing in DAC at address  172  value:  2019
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2019  M0V:    39
+Writing in DAC at address  172  value:  2020
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2020  M0V:    39
+Writing in DAC at address  172  value:  2021
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2021  M0V:    39
+Writing in DAC at address  172  value:  2022
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2022  M0V:    39
+Writing in DAC at address  172  value:  2023
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2023  M0V:    39
+Writing in DAC at address  172  value:  2024
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2024  M0V:    39
+Writing in DAC at address  172  value:  2025
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2025  M0V:    39
+Writing in DAC at address  172  value:  2026
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2026  M0V:    39
+Writing in DAC at address  172  value:  2027
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2027  M0V:    39
+Writing in DAC at address  172  value:  2028
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2028  M0V:    39
+Writing in DAC at address  172  value:  2029
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2029  M0V:    39
+Writing in DAC at address  172  value:  2030
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2030  M0V:    39
+Writing in DAC at address  172  value:  2031
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2031  M0V:    39
+Writing in DAC at address  172  value:  2032
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2032  M0V:    39
+Writing in DAC at address  172  value:  2033
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2033  M0V:    39
+Writing in DAC at address  172  value:  2034
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2034  M0V:    39
+Writing in DAC at address  172  value:  2035
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2035  M0V:    39
+Writing in DAC at address  172  value:  2036
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2036  M0V:    39
+Writing in DAC at address  172  value:  2037
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2037  M0V:    39
+Writing in DAC at address  172  value:  2038
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2038  M0V:    39
+Writing in DAC at address  172  value:  2039
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2039  M0V:    39
+Writing in DAC at address  172  value:  2040
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2040  M0V:    39
+Writing in DAC at address  172  value:  2041
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2041  M0V:    39
+Writing in DAC at address  172  value:  2042
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2042  M0V:    39
+Writing in DAC at address  172  value:  2043
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2043  M0V:    39
+Writing in DAC at address  172  value:  2044
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2044  M0V:    39
+Writing in DAC at address  172  value:  2045
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2045  M0V:    39
+Writing in DAC at address  172  value:  2046
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2046  M0V:    39
+Writing in DAC at address  172  value:  2047
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2047  M0V:    39
+Writing in DAC at address  172  value:  2048
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2048  M0V:    39
+Writing in DAC at address  172  value:  2049
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2049  M0V:    39
+Writing in DAC at address  172  value:  2050
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2050  M0V:    39
+Writing in DAC at address  172  value:  2051
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2051  M0V:    39
+Writing in DAC at address  172  value:  2052
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2052  M0V:    39
+Writing in DAC at address  172  value:  2053
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2053  M0V:    39
+Writing in DAC at address  172  value:  2054
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2054  M0V:    39
+Writing in DAC at address  172  value:  2055
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2055  M0V:    39
+Writing in DAC at address  172  value:  2056
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2056  M0V:    39
+Writing in DAC at address  172  value:  2057
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2057  M0V:    39
+Writing in DAC at address  172  value:  2058
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2058  M0V:    39
+Writing in DAC at address  172  value:  2059
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2059  M0V:    39
+Writing in DAC at address  172  value:  2060
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2060  M0V:    39
+Writing in DAC at address  172  value:  2061
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2061  M0V:    39
+Writing in DAC at address  172  value:  2062
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2062  M0V:    39
+Writing in DAC at address  172  value:  2063
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2063  M0V:    39
+Writing in DAC at address  172  value:  2064
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2064  M0V:    39
+Writing in DAC at address  172  value:  2065
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2065  M0V:    39
+Writing in DAC at address  172  value:  2066
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2066  M0V:    39
+Writing in DAC at address  172  value:  2067
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2067  M0V:    39
+Writing in DAC at address  172  value:  2068
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2068  M0V:    39
+Writing in DAC at address  172  value:  2069
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2069  M0V:    39
+Writing in DAC at address  172  value:  2070
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2070  M0V:    39
+Writing in DAC at address  172  value:  2071
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2071  M0V:    39
+Writing in DAC at address  172  value:  2072
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2072  M0V:    39
+Writing in DAC at address  172  value:  2073
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2073  M0V:    39
+Writing in DAC at address  172  value:  2074
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2074  M0V:    39
+Writing in DAC at address  172  value:  2075
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2075  M0V:    39
+Writing in DAC at address  172  value:  2076
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2076  M0V:    39
+Writing in DAC at address  172  value:  2077
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2077  M0V:    39
+Writing in DAC at address  172  value:  2078
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2078  M0V:    39
+Writing in DAC at address  172  value:  2079
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2079  M0V:    39
+Writing in DAC at address  172  value:  2080
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2080  M0V:    39
+Writing in DAC at address  172  value:  2081
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2081  M0V:    39
+Writing in DAC at address  172  value:  2082
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2082  M0V:    39
+Writing in DAC at address  172  value:  2083
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2083  M0V:    39
+Writing in DAC at address  172  value:  2084
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2084  M0V:    39
+Writing in DAC at address  172  value:  2085
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2085  M0V:    39
+Writing in DAC at address  172  value:  2086
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2086  M0V:    39
+Writing in DAC at address  172  value:  2087
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2087  M0V:    39
+Writing in DAC at address  172  value:  2088
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2088  M0V:    39
+Writing in DAC at address  172  value:  2089
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2089  M0V:    39
+Writing in DAC at address  172  value:  2090
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2090  M0V:    39
+Writing in DAC at address  172  value:  2091
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2091  M0V:    39
+Writing in DAC at address  172  value:  2092
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2092  M0V:    39
+Writing in DAC at address  172  value:  2093
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2093  M0V:    39
+Writing in DAC at address  172  value:  2094
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2094  M0V:    39
+Writing in DAC at address  172  value:  2095
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2095  M0V:    39
+Writing in DAC at address  172  value:  2096
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2096  M0V:    39
+Writing in DAC at address  172  value:  2097
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2097  M0V:    39
+Writing in DAC at address  172  value:  2098
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2098  M0V:    39
+Writing in DAC at address  172  value:  2099
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2099  M0V:    39
+Writing in DAC at address  172  value:  2100
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2100  M0V:    39
+Writing in DAC at address  172  value:  2101
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2101  M0V:    39
+Writing in DAC at address  172  value:  2102
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2102  M0V:    39
+Writing in DAC at address  172  value:  2103
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2103  M0V:    39
+Writing in DAC at address  172  value:  2104
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2104  M0V:    39
+Writing in DAC at address  172  value:  2105
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2105  M0V:    39
+Writing in DAC at address  172  value:  2106
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2106  M0V:    39
+Writing in DAC at address  172  value:  2107
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2107  M0V:    39
+Writing in DAC at address  172  value:  2108
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2108  M0V:    39
+Writing in DAC at address  172  value:  2109
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2109  M0V:    39
+Writing in DAC at address  172  value:  2110
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2110  M0V:    39
+Writing in DAC at address  172  value:  2111
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2111  M0V:    39
+Writing in DAC at address  172  value:  2112
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2112  M0V:    39
+Writing in DAC at address  172  value:  2113
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2113  M0V:    39
+Writing in DAC at address  172  value:  2114
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2114  M0V:    39
+Writing in DAC at address  172  value:  2115
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2115  M0V:    39
+Writing in DAC at address  172  value:  2116
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2116  M0V:    39
+Writing in DAC at address  172  value:  2117
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2117  M0V:    39
+Writing in DAC at address  172  value:  2118
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2118  M0V:    39
+Writing in DAC at address  172  value:  2119
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2119  M0V:    39
+Writing in DAC at address  172  value:  2120
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2120  M0V:    39
+Writing in DAC at address  172  value:  2121
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2121  M0V:    39
+Writing in DAC at address  172  value:  2122
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2122  M0V:    39
+Writing in DAC at address  172  value:  2123
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2123  M0V:    39
+Writing in DAC at address  172  value:  2124
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2124  M0V:    39
+Writing in DAC at address  172  value:  2125
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2125  M0V:    39
+Writing in DAC at address  172  value:  2126
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2126  M0V:    39
+Writing in DAC at address  172  value:  2127
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2127  M0V:    39
+Writing in DAC at address  172  value:  2128
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2128  M0V:    39
+Writing in DAC at address  172  value:  2129
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2129  M0V:    39
+Writing in DAC at address  172  value:  2130
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2130  M0V:    39
+Writing in DAC at address  172  value:  2131
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2131  M0V:    39
+Writing in DAC at address  172  value:  2132
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2132  M0V:    39
+Writing in DAC at address  172  value:  2133
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2133  M0V:    39
+Writing in DAC at address  172  value:  2134
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2134  M0V:    39
+Writing in DAC at address  172  value:  2135
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2135  M0V:    39
+Writing in DAC at address  172  value:  2136
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2136  M0V:    39
+Writing in DAC at address  172  value:  2137
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2137  M0V:    39
+Writing in DAC at address  172  value:  2138
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2138  M0V:    39
+Writing in DAC at address  172  value:  2139
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2139  M0V:    39
+Writing in DAC at address  172  value:  2140
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2140  M0V:    39
+Writing in DAC at address  172  value:  2141
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+2141  M0V:    39
+Writing in DAC at address  172  value:  2142
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2142  M0V:    39
+Writing in DAC at address  172  value:  2143
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2143  M0V:    39
+Writing in DAC at address  172  value:  2144
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2144  M0V:    39
+Writing in DAC at address  172  value:  2145
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2145  M0V:    39
+Writing in DAC at address  172  value:  2146
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2146  M0V:    39
+Writing in DAC at address  172  value:  2147
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2147  M0V:    39
+Writing in DAC at address  172  value:  2148
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2148  M0V:    39
+Writing in DAC at address  172  value:  2149
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2149  M0V:    39
+Writing in DAC at address  172  value:  2150
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2150  M0V:    39
+Writing in DAC at address  172  value:  2151
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2151  M0V:    39
+Writing in DAC at address  172  value:  2152
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2152  M0V:    39
+Writing in DAC at address  172  value:  2153
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2153  M0V:    39
+Writing in DAC at address  172  value:  2154
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2154  M0V:    39
+Writing in DAC at address  172  value:  2155
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2155  M0V:    39
+Writing in DAC at address  172  value:  2156
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2156  M0V:    39
+Writing in DAC at address  172  value:  2157
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2157  M0V:    39
+Writing in DAC at address  172  value:  2158
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2158  M0V:    39
+Writing in DAC at address  172  value:  2159
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2159  M0V:    39
+Writing in DAC at address  172  value:  2160
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2160  M0V:    39
+Writing in DAC at address  172  value:  2161
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2161  M0V:    39
+Writing in DAC at address  172  value:  2162
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2162  M0V:    39
+Writing in DAC at address  172  value:  2163
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2163  M0V:    39
+Writing in DAC at address  172  value:  2164
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2164  M0V:    39
+Writing in DAC at address  172  value:  2165
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2165  M0V:    39
+Writing in DAC at address  172  value:  2166
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2166  M0V:    39
+Writing in DAC at address  172  value:  2167
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2167  M0V:    39
+Writing in DAC at address  172  value:  2168
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2168  M0V:    39
+Writing in DAC at address  172  value:  2169
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2169  M0V:    39
+Writing in DAC at address  172  value:  2170
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2170  M0V:    39
+Writing in DAC at address  172  value:  2171
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2171  M0V:    39
+Writing in DAC at address  172  value:  2172
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2172  M0V:    39
+Writing in DAC at address  172  value:  2173
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2173  M0V:    39
+Writing in DAC at address  172  value:  2174
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2174  M0V:    39
+Writing in DAC at address  172  value:  2175
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2175  M0V:    39
+Writing in DAC at address  172  value:  2176
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2176  M0V:    39
+Writing in DAC at address  172  value:  2177
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+2177  M0V:    39
+Writing in DAC at address  172  value:  2178
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2178  M0V:    39
+Writing in DAC at address  172  value:  2179
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2179  M0V:    39
+Writing in DAC at address  172  value:  2180
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2180  M0V:    39
+Writing in DAC at address  172  value:  2181
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2181  M0V:    39
+Writing in DAC at address  172  value:  2182
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2182  M0V:    39
+Writing in DAC at address  172  value:  2183
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2183  M0V:    39
+Writing in DAC at address  172  value:  2184
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2184  M0V:    39
+Writing in DAC at address  172  value:  2185
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2185  M0V:    39
+Writing in DAC at address  172  value:  2186
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2186  M0V:    39
+Writing in DAC at address  172  value:  2187
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2187  M0V:    39
+Writing in DAC at address  172  value:  2188
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2188  M0V:    39
+Writing in DAC at address  172  value:  2189
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2189  M0V:    39
+Writing in DAC at address  172  value:  2190
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2190  M0V:    39
+Writing in DAC at address  172  value:  2191
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2191  M0V:    39
+Writing in DAC at address  172  value:  2192
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2192  M0V:    39
+Writing in DAC at address  172  value:  2193
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2193  M0V:    39
+Writing in DAC at address  172  value:  2194
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2194  M0V:    39
+Writing in DAC at address  172  value:  2195
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2195  M0V:    39
+Writing in DAC at address  172  value:  2196
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2196  M0V:    39
+Writing in DAC at address  172  value:  2197
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2197  M0V:    39
+Writing in DAC at address  172  value:  2198
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2198  M0V:    39
+Writing in DAC at address  172  value:  2199
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2199  M0V:    39
+Writing in DAC at address  172  value:  2200
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2200  M0V:    39
+Writing in DAC at address  172  value:  2201
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2201  M0V:    39
+Writing in DAC at address  172  value:  2202
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2202  M0V:    39
+Writing in DAC at address  172  value:  2203
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2203  M0V:    39
+Writing in DAC at address  172  value:  2204
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2204  M0V:    39
+Writing in DAC at address  172  value:  2205
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2205  M0V:    39
+Writing in DAC at address  172  value:  2206
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2206  M0V:    39
+Writing in DAC at address  172  value:  2207
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2207  M0V:    39
+Writing in DAC at address  172  value:  2208
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2208  M0V:    39
+Writing in DAC at address  172  value:  2209
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2209  M0V:    39
+Writing in DAC at address  172  value:  2210
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2210  M0V:    40
+Writing in DAC at address  172  value:  2211
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2211  M0V:    47
+Writing in DAC at address  172  value:  2212
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2212  M0V:    63
+Writing in DAC at address  172  value:  2213
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2213  M0V:   109
+Writing in DAC at address  172  value:  2214
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2214  M0V:   125
+Writing in DAC at address  172  value:  2215
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2215  M0V:   130
+Writing in DAC at address  172  value:  2216
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2216  M0V:   130
+Writing in DAC at address  172  value:  2217
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2217  M0V:   130
+Writing in DAC at address  172  value:  2218
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2218  M0V:   130
+Writing in DAC at address  172  value:  2219
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2219  M0V:   130
+Writing in DAC at address  172  value:  2220
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2220  M0V:   130
+Writing in DAC at address  172  value:  2221
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2221  M0V:   130
+Writing in DAC at address  172  value:  2222
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2222  M0V:   130
+Writing in DAC at address  172  value:  2223
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2223  M0V:   130
+Writing in DAC at address  172  value:  2224
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2224  M0V:   130
+Writing in DAC at address  172  value:  2225
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2225  M0V:   130
+Writing in DAC at address  172  value:  2226
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2226  M0V:   130
+Writing in DAC at address  172  value:  2227
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2227  M0V:   130
+Writing in DAC at address  172  value:  2228
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2228  M0V:   130
+Writing in DAC at address  172  value:  2229
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2229  M0V:   130
+Writing in DAC at address  172  value:  2230
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2230  M0V:   130
+Writing in DAC at address  172  value:  2231
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2231  M0V:   130
+Writing in DAC at address  172  value:  2232
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2232  M0V:   130
+Writing in DAC at address  172  value:  2233
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2233  M0V:   130
+Writing in DAC at address  172  value:  2234
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2234  M0V:   130
+Writing in DAC at address  172  value:  2235
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2235  M0V:   130
+Writing in DAC at address  172  value:  2236
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2236  M0V:   130
+Writing in DAC at address  172  value:  2237
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2237  M0V:   130
+Writing in DAC at address  172  value:  2238
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2238  M0V:   130
+Writing in DAC at address  172  value:  2239
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2239  M0V:   130
+Writing in DAC at address  172  value:  2240
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2240  M0V:   130
+Writing in DAC at address  172  value:  2241
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2241  M0V:   130
+Writing in DAC at address  172  value:  2242
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2242  M0V:   130
+Writing in DAC at address  172  value:  2243
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2243  M0V:   130
+Writing in DAC at address  172  value:  2244
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2244  M0V:   130
+Writing in DAC at address  172  value:  2245
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2245  M0V:   130
+Writing in DAC at address  172  value:  2246
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2246  M0V:   130
+Writing in DAC at address  172  value:  2247
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2247  M0V:   130
+Writing in DAC at address  172  value:  2248
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2248  M0V:   130
+Writing in DAC at address  172  value:  2249
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2249  M0V:   130
+Writing in DAC at address  172  value:  2250
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2250  M0V:   130
+Writing in DAC at address  172  value:  2251
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2251  M0V:   130
+Writing in DAC at address  172  value:  2252
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2252  M0V:   130
+Writing in DAC at address  172  value:  2253
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2253  M0V:   130
+Writing in DAC at address  172  value:  2254
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2254  M0V:   130
+Writing in DAC at address  172  value:  2255
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2255  M0V:   130
+Writing in DAC at address  172  value:  2256
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2256  M0V:   130
+Writing in DAC at address  172  value:  2257
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2257  M0V:   130
+Writing in DAC at address  172  value:  2258
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2258  M0V:   130
+Writing in DAC at address  172  value:  2259
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2259  M0V:   130
+Writing in DAC at address  172  value:  2260
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2260  M0V:   130
+Writing in DAC at address  172  value:  2261
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2261  M0V:   130
+Writing in DAC at address  172  value:  2262
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2262  M0V:   130
+Writing in DAC at address  172  value:  2263
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2263  M0V:   130
+Writing in DAC at address  172  value:  2264
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2264  M0V:   130
+Writing in DAC at address  172  value:  2265
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2265  M0V:   130
+Writing in DAC at address  172  value:  2266
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2266  M0V:   130
+Writing in DAC at address  172  value:  2267
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2267  M0V:   130
+Writing in DAC at address  172  value:  2268
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2268  M0V:   130
+Writing in DAC at address  172  value:  2269
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2269  M0V:   130
+Writing in DAC at address  172  value:  2270
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2270  M0V:   130
+Writing in DAC at address  172  value:  2271
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2271  M0V:   130
+Writing in DAC at address  172  value:  2272
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2272  M0V:   130
+Writing in DAC at address  172  value:  2273
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2273  M0V:   130
+Writing in DAC at address  172  value:  2274
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2274  M0V:   130
+Writing in DAC at address  172  value:  2275
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2275  M0V:   130
+Writing in DAC at address  172  value:  2276
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2276  M0V:   130
+Writing in DAC at address  172  value:  2277
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2277  M0V:   130
+Writing in DAC at address  172  value:  2278
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2278  M0V:   130
+Writing in DAC at address  172  value:  2279
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2279  M0V:   130
+Writing in DAC at address  172  value:  2280
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2280  M0V:   130
+Writing in DAC at address  172  value:  2281
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2281  M0V:   130
+Writing in DAC at address  172  value:  2282
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2282  M0V:   130
+Writing in DAC at address  172  value:  2283
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2283  M0V:   130
+Writing in DAC at address  172  value:  2284
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2284  M0V:   130
+Writing in DAC at address  172  value:  2285
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2285  M0V:   130
+Writing in DAC at address  172  value:  2286
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2286  M0V:   130
+Writing in DAC at address  172  value:  2287
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2287  M0V:   130
+Writing in DAC at address  172  value:  2288
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+2288  M0V:   130
+Writing in DAC at address  172  value:  2289
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2289  M0V:   130
+Writing in DAC at address  172  value:  2290
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2290  M0V:   130
+Writing in DAC at address  172  value:  2291
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2291  M0V:   130
+Writing in DAC at address  172  value:  2292
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2292  M0V:   130
+Writing in DAC at address  172  value:  2293
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2293  M0V:   130
+Writing in DAC at address  172  value:  2294
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2294  M0V:   130
+Writing in DAC at address  172  value:  2295
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2295  M0V:   130
+Writing in DAC at address  172  value:  2296
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2296  M0V:   130
+Writing in DAC at address  172  value:  2297
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2297  M0V:   130
+Writing in DAC at address  172  value:  2298
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2298  M0V:   130
+Writing in DAC at address  172  value:  2299
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2299  M0V:   130
+Writing in DAC at address  172  value:  2300
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2300  M0V:   130
+Writing in DAC at address  172  value:  2301
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2301  M0V:   130
+Writing in DAC at address  172  value:  2302
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2302  M0V:   130
+Writing in DAC at address  172  value:  2303
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2303  M0V:   130
+Writing in DAC at address  172  value:  2304
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2304  M0V:   130
+Writing in DAC at address  172  value:  2305
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2305  M0V:   130
+Writing in DAC at address  172  value:  2306
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2306  M0V:   130
+Writing in DAC at address  172  value:  2307
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2307  M0V:   130
+Writing in DAC at address  172  value:  2308
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2308  M0V:   130
+Writing in DAC at address  172  value:  2309
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2309  M0V:   130
+Writing in DAC at address  172  value:  2310
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2310  M0V:   130
+Writing in DAC at address  172  value:  2311
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2311  M0V:   130
+Writing in DAC at address  172  value:  2312
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2312  M0V:   130
+Writing in DAC at address  172  value:  2313
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2313  M0V:   130
+Writing in DAC at address  172  value:  2314
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2314  M0V:   130
+Writing in DAC at address  172  value:  2315
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2315  M0V:   130
+Writing in DAC at address  172  value:  2316
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2316  M0V:   130
+Writing in DAC at address  172  value:  2317
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2317  M0V:   130
+Writing in DAC at address  172  value:  2318
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2318  M0V:   130
+Writing in DAC at address  172  value:  2319
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2319  M0V:   130
+Writing in DAC at address  172  value:  2320
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2320  M0V:   130
+Writing in DAC at address  172  value:  2321
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2321  M0V:   130
+Writing in DAC at address  172  value:  2322
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2322  M0V:   130
+Writing in DAC at address  172  value:  2323
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2323  M0V:   130
+Writing in DAC at address  172  value:  2324
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2324  M0V:   130
+Writing in DAC at address  172  value:  2325
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2325  M0V:   130
+Writing in DAC at address  172  value:  2326
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2326  M0V:   130
+Writing in DAC at address  172  value:  2327
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2327  M0V:   130
+Writing in DAC at address  172  value:  2328
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2328  M0V:   130
+Writing in DAC at address  172  value:  2329
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2329  M0V:   130
+Writing in DAC at address  172  value:  2330
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2330  M0V:   130
+Writing in DAC at address  172  value:  2331
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2331  M0V:   130
+Writing in DAC at address  172  value:  2332
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2332  M0V:   130
+Writing in DAC at address  172  value:  2333
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2333  M0V:   130
+Writing in DAC at address  172  value:  2334
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2334  M0V:   130
+Writing in DAC at address  172  value:  2335
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2335  M0V:   130
+Writing in DAC at address  172  value:  2336
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2336  M0V:   130
+Writing in DAC at address  172  value:  2337
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2337  M0V:   130
+Writing in DAC at address  172  value:  2338
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2338  M0V:   130
+Writing in DAC at address  172  value:  2339
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2339  M0V:   130
+Writing in DAC at address  172  value:  2340
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2340  M0V:   130
+Writing in DAC at address  172  value:  2341
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2341  M0V:   130
+Writing in DAC at address  172  value:  2342
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2342  M0V:   130
+Writing in DAC at address  172  value:  2343
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2343  M0V:   130
+Writing in DAC at address  172  value:  2344
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2344  M0V:   130
+Writing in DAC at address  172  value:  2345
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2345  M0V:   130
+Writing in DAC at address  172  value:  2346
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2346  M0V:   130
+Writing in DAC at address  172  value:  2347
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2347  M0V:   130
+Writing in DAC at address  172  value:  2348
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2348  M0V:   130
+Writing in DAC at address  172  value:  2349
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2349  M0V:   130
+Writing in DAC at address  172  value:  2350
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2350  M0V:   130
+Writing in DAC at address  172  value:  2351
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2351  M0V:   130
+Writing in DAC at address  172  value:  2352
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2352  M0V:   130
+Writing in DAC at address  172  value:  2353
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2353  M0V:   130
+Writing in DAC at address  172  value:  2354
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2354  M0V:   130
+Writing in DAC at address  172  value:  2355
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2355  M0V:   130
+Writing in DAC at address  172  value:  2356
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2356  M0V:   130
+Writing in DAC at address  172  value:  2357
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2357  M0V:   130
+Writing in DAC at address  172  value:  2358
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2358  M0V:   130
+Writing in DAC at address  172  value:  2359
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2359  M0V:   130
+Writing in DAC at address  172  value:  2360
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2360  M0V:   130
+Writing in DAC at address  172  value:  2361
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2361  M0V:   130
+Writing in DAC at address  172  value:  2362
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2362  M0V:   130
+Writing in DAC at address  172  value:  2363
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2363  M0V:   130
+Writing in DAC at address  172  value:  2364
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2364  M0V:   130
+Writing in DAC at address  172  value:  2365
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2365  M0V:   130
+Writing in DAC at address  172  value:  2366
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2366  M0V:   130
+Writing in DAC at address  172  value:  2367
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2367  M0V:   130
+Writing in DAC at address  172  value:  2368
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2368  M0V:   130
+Writing in DAC at address  172  value:  2369
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2369  M0V:   130
+Writing in DAC at address  172  value:  2370
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2370  M0V:   130
+Writing in DAC at address  172  value:  2371
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2371  M0V:   130
+Writing in DAC at address  172  value:  2372
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2372  M0V:   130
+Writing in DAC at address  172  value:  2373
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2373  M0V:   130
+Writing in DAC at address  172  value:  2374
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2374  M0V:   130
+Writing in DAC at address  172  value:  2375
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2375  M0V:   130
+Writing in DAC at address  172  value:  2376
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2376  M0V:   130
+Writing in DAC at address  172  value:  2377
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2377  M0V:   130
+Writing in DAC at address  172  value:  2378
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2378  M0V:   130
+Writing in DAC at address  172  value:  2379
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2379  M0V:   130
+Writing in DAC at address  172  value:  2380
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2380  M0V:   130
+Writing in DAC at address  172  value:  2381
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2381  M0V:   130
+Writing in DAC at address  172  value:  2382
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2382  M0V:   130
+Writing in DAC at address  172  value:  2383
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2383  M0V:   130
+Writing in DAC at address  172  value:  2384
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2384  M0V:   130
+Writing in DAC at address  172  value:  2385
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2385  M0V:   130
+Writing in DAC at address  172  value:  2386
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2386  M0V:   130
+Writing in DAC at address  172  value:  2387
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2387  M0V:   130
+Writing in DAC at address  172  value:  2388
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2388  M0V:   130
+Writing in DAC at address  172  value:  2389
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2389  M0V:   130
+Writing in DAC at address  172  value:  2390
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2390  M0V:   130
+Writing in DAC at address  172  value:  2391
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2391  M0V:   130
+Writing in DAC at address  172  value:  2392
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2392  M0V:   130
+Writing in DAC at address  172  value:  2393
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2393  M0V:   130
+Writing in DAC at address  172  value:  2394
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2394  M0V:   130
+Writing in DAC at address  172  value:  2395
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2395  M0V:   130
+Writing in DAC at address  172  value:  2396
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2396  M0V:   130
+Writing in DAC at address  172  value:  2397
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2397  M0V:   130
+Writing in DAC at address  172  value:  2398
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2398  M0V:   130
+Writing in DAC at address  172  value:  2399
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2399  M0V:   130
+Writing in DAC at address  172  value:  2400
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2400  M0V:   130
+Writing in DAC at address  172  value:  2401
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+2401  M0V:   130
+Writing in DAC at address  172  value:  2402
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2402  M0V:   130
+Writing in DAC at address  172  value:  2403
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2403  M0V:   130
+Writing in DAC at address  172  value:  2404
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2404  M0V:   130
+Writing in DAC at address  172  value:  2405
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2405  M0V:   130
+Writing in DAC at address  172  value:  2406
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2406  M0V:   130
+Writing in DAC at address  172  value:  2407
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2407  M0V:   130
+Writing in DAC at address  172  value:  2408
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2408  M0V:   130
+Writing in DAC at address  172  value:  2409
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2409  M0V:   130
+Writing in DAC at address  172  value:  2410
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2410  M0V:   130
+Writing in DAC at address  172  value:  2411
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2411  M0V:   130
+Writing in DAC at address  172  value:  2412
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2412  M0V:   130
+Writing in DAC at address  172  value:  2413
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2413  M0V:   130
+Writing in DAC at address  172  value:  2414
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2414  M0V:   130
+Writing in DAC at address  172  value:  2415
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2415  M0V:   130
+Writing in DAC at address  172  value:  2416
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2416  M0V:   130
+Writing in DAC at address  172  value:  2417
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2417  M0V:   130
+Writing in DAC at address  172  value:  2418
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2418  M0V:   130
+Writing in DAC at address  172  value:  2419
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2419  M0V:   130
+Writing in DAC at address  172  value:  2420
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2420  M0V:   130
+Writing in DAC at address  172  value:  2421
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2421  M0V:   130
+Writing in DAC at address  172  value:  2422
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2422  M0V:   130
+Writing in DAC at address  172  value:  2423
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2423  M0V:   130
+Writing in DAC at address  172  value:  2424
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2424  M0V:   130
+Writing in DAC at address  172  value:  2425
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+2425  M0V:   130
+Writing in DAC at address  172  value:  2426
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2426  M0V:   130
+Writing in DAC at address  172  value:  2427
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2427  M0V:   130
+Writing in DAC at address  172  value:  2428
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2428  M0V:   130
+Writing in DAC at address  172  value:  2429
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2429  M0V:   130
+Writing in DAC at address  172  value:  2430
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2430  M0V:   130
+Writing in DAC at address  172  value:  2431
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2431  M0V:   130
+Writing in DAC at address  172  value:  2432
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2432  M0V:   130
+Writing in DAC at address  172  value:  2433
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2433  M0V:   130
+Writing in DAC at address  172  value:  2434
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2434  M0V:   130
+Writing in DAC at address  172  value:  2435
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2435  M0V:   130
+Writing in DAC at address  172  value:  2436
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2436  M0V:   130
+Writing in DAC at address  172  value:  2437
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2437  M0V:   130
+Writing in DAC at address  172  value:  2438
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2438  M0V:   130
+Writing in DAC at address  172  value:  2439
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2439  M0V:   130
+Writing in DAC at address  172  value:  2440
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2440  M0V:   130
+Writing in DAC at address  172  value:  2441
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2441  M0V:   130
+Writing in DAC at address  172  value:  2442
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2442  M0V:   130
+Writing in DAC at address  172  value:  2443
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2443  M0V:   130
+Writing in DAC at address  172  value:  2444
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2444  M0V:   130
+Writing in DAC at address  172  value:  2445
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2445  M0V:   130
+Writing in DAC at address  172  value:  2446
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2446  M0V:   130
+Writing in DAC at address  172  value:  2447
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2447  M0V:   130
+Writing in DAC at address  172  value:  2448
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2448  M0V:   130
+Writing in DAC at address  172  value:  2449
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2449  M0V:   130
+Writing in DAC at address  172  value:  2450
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2450  M0V:   130
+Writing in DAC at address  172  value:  2451
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2451  M0V:   130
+Writing in DAC at address  172  value:  2452
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2452  M0V:   130
+Writing in DAC at address  172  value:  2453
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2453  M0V:   130
+Writing in DAC at address  172  value:  2454
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2454  M0V:   130
+Writing in DAC at address  172  value:  2455
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2455  M0V:   130
+Writing in DAC at address  172  value:  2456
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2456  M0V:   130
+Writing in DAC at address  172  value:  2457
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2457  M0V:   130
+Writing in DAC at address  172  value:  2458
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2458  M0V:   130
+Writing in DAC at address  172  value:  2459
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2459  M0V:   130
+Writing in DAC at address  172  value:  2460
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2460  M0V:   130
+Writing in DAC at address  172  value:  2461
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2461  M0V:   130
+Writing in DAC at address  172  value:  2462
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2462  M0V:   130
+Writing in DAC at address  172  value:  2463
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2463  M0V:   130
+Writing in DAC at address  172  value:  2464
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2464  M0V:   130
+Writing in DAC at address  172  value:  2465
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2465  M0V:   130
+Writing in DAC at address  172  value:  2466
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2466  M0V:   130
+Writing in DAC at address  172  value:  2467
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2467  M0V:   130
+Writing in DAC at address  172  value:  2468
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2468  M0V:   130
+Writing in DAC at address  172  value:  2469
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2469  M0V:   130
+Writing in DAC at address  172  value:  2470
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2470  M0V:   130
+Writing in DAC at address  172  value:  2471
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2471  M0V:   130
+Writing in DAC at address  172  value:  2472
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2472  M0V:   130
+Writing in DAC at address  172  value:  2473
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2473  M0V:   130
+Writing in DAC at address  172  value:  2474
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2474  M0V:   130
+Writing in DAC at address  172  value:  2475
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2475  M0V:   130
+Writing in DAC at address  172  value:  2476
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2476  M0V:   130
+Writing in DAC at address  172  value:  2477
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2477  M0V:   130
+Writing in DAC at address  172  value:  2478
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2478  M0V:   130
+Writing in DAC at address  172  value:  2479
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2479  M0V:   130
+Writing in DAC at address  172  value:  2480
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2480  M0V:   130
+Writing in DAC at address  172  value:  2481
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2481  M0V:   130
+Writing in DAC at address  172  value:  2482
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2482  M0V:   130
+Writing in DAC at address  172  value:  2483
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2483  M0V:   130
+Writing in DAC at address  172  value:  2484
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2484  M0V:   130
+Writing in DAC at address  172  value:  2485
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2485  M0V:   130
+Writing in DAC at address  172  value:  2486
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2486  M0V:   130
+Writing in DAC at address  172  value:  2487
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2487  M0V:   130
+Writing in DAC at address  172  value:  2488
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2488  M0V:   130
+Writing in DAC at address  172  value:  2489
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2489  M0V:   130
+Writing in DAC at address  172  value:  2490
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2490  M0V:   130
+Writing in DAC at address  172  value:  2491
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2491  M0V:   130
+Writing in DAC at address  172  value:  2492
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2492  M0V:   130
+Writing in DAC at address  172  value:  2493
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2493  M0V:   130
+Writing in DAC at address  172  value:  2494
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2494  M0V:   130
+Writing in DAC at address  172  value:  2495
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2495  M0V:   130
+Writing in DAC at address  172  value:  2496
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2496  M0V:   130
+Writing in DAC at address  172  value:  2497
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2497  M0V:   130
+Writing in DAC at address  172  value:  2498
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2498  M0V:   130
+Writing in DAC at address  172  value:  2499
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2499  M0V:   130
+Writing in DAC at address  172  value:  2500
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2500  M0V:   130
+Writing in DAC at address  172  value:  2501
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2501  M0V:   130
+Writing in DAC at address  172  value:  2502
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2502  M0V:   130
+Writing in DAC at address  172  value:  2503
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2503  M0V:   130
+Writing in DAC at address  172  value:  2504
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2504  M0V:   130
+Writing in DAC at address  172  value:  2505
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2505  M0V:   130
+Writing in DAC at address  172  value:  2506
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2506  M0V:   130
+Writing in DAC at address  172  value:  2507
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2507  M0V:   130
+Writing in DAC at address  172  value:  2508
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2508  M0V:   130
+Writing in DAC at address  172  value:  2509
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2509  M0V:   130
+Writing in DAC at address  172  value:  2510
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2510  M0V:   130
+Writing in DAC at address  172  value:  2511
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2511  M0V:   130
+Writing in DAC at address  172  value:  2512
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2512  M0V:   130
+Writing in DAC at address  172  value:  2513
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2513  M0V:   130
+Writing in DAC at address  172  value:  2514
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2514  M0V:   130
+Writing in DAC at address  172  value:  2515
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2515  M0V:   130
+Writing in DAC at address  172  value:  2516
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2516  M0V:   130
+Writing in DAC at address  172  value:  2517
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2517  M0V:   130
+Writing in DAC at address  172  value:  2518
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2518  M0V:   130
+Writing in DAC at address  172  value:  2519
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2519  M0V:   130
+Writing in DAC at address  172  value:  2520
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2520  M0V:   130
+Writing in DAC at address  172  value:  2521
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2521  M0V:   130
+Writing in DAC at address  172  value:  2522
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2522  M0V:   130
+Writing in DAC at address  172  value:  2523
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2523  M0V:   130
+Writing in DAC at address  172  value:  2524
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2524  M0V:   130
+Writing in DAC at address  172  value:  2525
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2525  M0V:   130
+Writing in DAC at address  172  value:  2526
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2526  M0V:   130
+Writing in DAC at address  172  value:  2527
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2527  M0V:   130
+Writing in DAC at address  172  value:  2528
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2528  M0V:   130
+Writing in DAC at address  172  value:  2529
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2529  M0V:   130
+Writing in DAC at address  172  value:  2530
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2530  M0V:   130
+Writing in DAC at address  172  value:  2531
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2531  M0V:   130
+Writing in DAC at address  172  value:  2532
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2532  M0V:   130
+Writing in DAC at address  172  value:  2533
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2533  M0V:   130
+Writing in DAC at address  172  value:  2534
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2534  M0V:   130
+Writing in DAC at address  172  value:  2535
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2535  M0V:   130
+Writing in DAC at address  172  value:  2536
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2536  M0V:   130
+Writing in DAC at address  172  value:  2537
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2537  M0V:   130
+Writing in DAC at address  172  value:  2538
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2538  M0V:   130
+Writing in DAC at address  172  value:  2539
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2539  M0V:   130
+Writing in DAC at address  172  value:  2540
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2540  M0V:   130
+Writing in DAC at address  172  value:  2541
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2541  M0V:   130
+Writing in DAC at address  172  value:  2542
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2542  M0V:   130
+Writing in DAC at address  172  value:  2543
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2543  M0V:   130
+Writing in DAC at address  172  value:  2544
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2544  M0V:   130
+Writing in DAC at address  172  value:  2545
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2545  M0V:   130
+Writing in DAC at address  172  value:  2546
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2546  M0V:   130
+Writing in DAC at address  172  value:  2547
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2547  M0V:   130
+Writing in DAC at address  172  value:  2548
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2548  M0V:   130
+Writing in DAC at address  172  value:  2549
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2549  M0V:   130
+Writing in DAC at address  172  value:  2550
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2550  M0V:   130
+Writing in DAC at address  172  value:  2551
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2551  M0V:   130
+Writing in DAC at address  172  value:  2552
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2552  M0V:   130
+Writing in DAC at address  172  value:  2553
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2553  M0V:   130
+Writing in DAC at address  172  value:  2554
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2554  M0V:   130
+Writing in DAC at address  172  value:  2555
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2555  M0V:   130
+Writing in DAC at address  172  value:  2556
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2556  M0V:   130
+Writing in DAC at address  172  value:  2557
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2557  M0V:   130
+Writing in DAC at address  172  value:  2558
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2558  M0V:   130
+Writing in DAC at address  172  value:  2559
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2559  M0V:   130
+Writing in DAC at address  172  value:  2560
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2560  M0V:   130
+Writing in DAC at address  172  value:  2561
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2561  M0V:   130
+Writing in DAC at address  172  value:  2562
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2562  M0V:   130
+Writing in DAC at address  172  value:  2563
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2563  M0V:   130
+Writing in DAC at address  172  value:  2564
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2564  M0V:   130
+Writing in DAC at address  172  value:  2565
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2565  M0V:   130
+Writing in DAC at address  172  value:  2566
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2566  M0V:   130
+Writing in DAC at address  172  value:  2567
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2567  M0V:   130
+Writing in DAC at address  172  value:  2568
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2568  M0V:   130
+Writing in DAC at address  172  value:  2569
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2569  M0V:   130
+Writing in DAC at address  172  value:  2570
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2570  M0V:   130
+Writing in DAC at address  172  value:  2571
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2571  M0V:   130
+Writing in DAC at address  172  value:  2572
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2572  M0V:   130
+Writing in DAC at address  172  value:  2573
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2573  M0V:   130
+Writing in DAC at address  172  value:  2574
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2574  M0V:   130
+Writing in DAC at address  172  value:  2575
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2575  M0V:   130
+Writing in DAC at address  172  value:  2576
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2576  M0V:   130
+Writing in DAC at address  172  value:  2577
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2577  M0V:   130
+Writing in DAC at address  172  value:  2578
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2578  M0V:   130
+Writing in DAC at address  172  value:  2579
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2579  M0V:   130
+Writing in DAC at address  172  value:  2580
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2580  M0V:   130
+Writing in DAC at address  172  value:  2581
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2581  M0V:   130
+Writing in DAC at address  172  value:  2582
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2582  M0V:   130
+Writing in DAC at address  172  value:  2583
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2583  M0V:   130
+Writing in DAC at address  172  value:  2584
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2584  M0V:   130
+Writing in DAC at address  172  value:  2585
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2585  M0V:   130
+Writing in DAC at address  172  value:  2586
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2586  M0V:   130
+Writing in DAC at address  172  value:  2587
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2587  M0V:   130
+Writing in DAC at address  172  value:  2588
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2588  M0V:   130
+Writing in DAC at address  172  value:  2589
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2589  M0V:   130
+Writing in DAC at address  172  value:  2590
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2590  M0V:   130
+Writing in DAC at address  172  value:  2591
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2591  M0V:   130
+Writing in DAC at address  172  value:  2592
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2592  M0V:   130
+Writing in DAC at address  172  value:  2593
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2593  M0V:   130
+Writing in DAC at address  172  value:  2594
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2594  M0V:   130
+Writing in DAC at address  172  value:  2595
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2595  M0V:   130
+Writing in DAC at address  172  value:  2596
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2596  M0V:   130
+Writing in DAC at address  172  value:  2597
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2597  M0V:   130
+Writing in DAC at address  172  value:  2598
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2598  M0V:   130
+Writing in DAC at address  172  value:  2599
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+2599  M0V:   130
+Writing in DAC at address  172  value:  2600
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2600  M0V:   130
+Writing in DAC at address  172  value:  2601
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2601  M0V:   130
+Writing in DAC at address  172  value:  2602
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2602  M0V:   130
+Writing in DAC at address  172  value:  2603
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2603  M0V:   130
+Writing in DAC at address  172  value:  2604
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2604  M0V:   130
+Writing in DAC at address  172  value:  2605
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2605  M0V:   130
+Writing in DAC at address  172  value:  2606
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2606  M0V:   130
+Writing in DAC at address  172  value:  2607
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2607  M0V:   130
+Writing in DAC at address  172  value:  2608
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2608  M0V:   130
+Writing in DAC at address  172  value:  2609
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2609  M0V:   130
+Writing in DAC at address  172  value:  2610
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2610  M0V:   130
+Writing in DAC at address  172  value:  2611
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2611  M0V:   130
+Writing in DAC at address  172  value:  2612
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2612  M0V:   130
+Writing in DAC at address  172  value:  2613
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2613  M0V:   130
+Writing in DAC at address  172  value:  2614
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2614  M0V:   130
+Writing in DAC at address  172  value:  2615
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2615  M0V:   130
+Writing in DAC at address  172  value:  2616
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2616  M0V:   130
+Writing in DAC at address  172  value:  2617
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2617  M0V:   130
+Writing in DAC at address  172  value:  2618
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2618  M0V:   130
+Writing in DAC at address  172  value:  2619
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2619  M0V:   130
+Writing in DAC at address  172  value:  2620
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2620  M0V:   130
+Writing in DAC at address  172  value:  2621
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2621  M0V:   130
+Writing in DAC at address  172  value:  2622
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2622  M0V:   130
+Writing in DAC at address  172  value:  2623
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2623  M0V:   130
+Writing in DAC at address  172  value:  2624
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2624  M0V:   130
+Writing in DAC at address  172  value:  2625
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2625  M0V:   130
+Writing in DAC at address  172  value:  2626
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2626  M0V:   130
+Writing in DAC at address  172  value:  2627
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2627  M0V:   130
+Writing in DAC at address  172  value:  2628
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2628  M0V:   130
+Writing in DAC at address  172  value:  2629
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2629  M0V:   130
+Writing in DAC at address  172  value:  2630
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2630  M0V:   130
+Writing in DAC at address  172  value:  2631
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2631  M0V:   130
+Writing in DAC at address  172  value:  2632
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2632  M0V:   130
+Writing in DAC at address  172  value:  2633
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2633  M0V:   130
+Writing in DAC at address  172  value:  2634
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2634  M0V:   130
+Writing in DAC at address  172  value:  2635
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2635  M0V:   130
+Writing in DAC at address  172  value:  2636
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2636  M0V:   130
+Writing in DAC at address  172  value:  2637
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2637  M0V:   130
+Writing in DAC at address  172  value:  2638
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2638  M0V:   130
+Writing in DAC at address  172  value:  2639
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2639  M0V:   130
+Writing in DAC at address  172  value:  2640
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2640  M0V:   130
+Writing in DAC at address  172  value:  2641
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2641  M0V:   130
+Writing in DAC at address  172  value:  2642
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2642  M0V:   130
+Writing in DAC at address  172  value:  2643
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2643  M0V:   130
+Writing in DAC at address  172  value:  2644
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2644  M0V:   130
+Writing in DAC at address  172  value:  2645
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+2645  M0V:   130
+Writing in DAC at address  172  value:  2646
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2646  M0V:   130
+Writing in DAC at address  172  value:  2647
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2647  M0V:   130
+Writing in DAC at address  172  value:  2648
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2648  M0V:   130
+Writing in DAC at address  172  value:  2649
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2649  M0V:   130
+Writing in DAC at address  172  value:  2650
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2650  M0V:   130
+Writing in DAC at address  172  value:  2651
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2651  M0V:   130
+Writing in DAC at address  172  value:  2652
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2652  M0V:   130
+Writing in DAC at address  172  value:  2653
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2653  M0V:   130
+Writing in DAC at address  172  value:  2654
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2654  M0V:   130
+Writing in DAC at address  172  value:  2655
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2655  M0V:   130
+Writing in DAC at address  172  value:  2656
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2656  M0V:   130
+Writing in DAC at address  172  value:  2657
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2657  M0V:   130
+Writing in DAC at address  172  value:  2658
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2658  M0V:   130
+Writing in DAC at address  172  value:  2659
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2659  M0V:   130
+Writing in DAC at address  172  value:  2660
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2660  M0V:   130
+Writing in DAC at address  172  value:  2661
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2661  M0V:   130
+Writing in DAC at address  172  value:  2662
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2662  M0V:   130
+Writing in DAC at address  172  value:  2663
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2663  M0V:   130
+Writing in DAC at address  172  value:  2664
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2664  M0V:   130
+Writing in DAC at address  172  value:  2665
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2665  M0V:   130
+Writing in DAC at address  172  value:  2666
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2666  M0V:   130
+Writing in DAC at address  172  value:  2667
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2667  M0V:   130
+Writing in DAC at address  172  value:  2668
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2668  M0V:   130
+Writing in DAC at address  172  value:  2669
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2669  M0V:   130
+Writing in DAC at address  172  value:  2670
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2670  M0V:   130
+Writing in DAC at address  172  value:  2671
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2671  M0V:   130
+Writing in DAC at address  172  value:  2672
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2672  M0V:   130
+Writing in DAC at address  172  value:  2673
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2673  M0V:   130
+Writing in DAC at address  172  value:  2674
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2674  M0V:   130
+Writing in DAC at address  172  value:  2675
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2675  M0V:   130
+Writing in DAC at address  172  value:  2676
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2676  M0V:   130
+Writing in DAC at address  172  value:  2677
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2677  M0V:   130
+Writing in DAC at address  172  value:  2678
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2678  M0V:   130
+Writing in DAC at address  172  value:  2679
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2679  M0V:   130
+Writing in DAC at address  172  value:  2680
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2680  M0V:   130
+Writing in DAC at address  172  value:  2681
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2681  M0V:   130
+Writing in DAC at address  172  value:  2682
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2682  M0V:   130
+Writing in DAC at address  172  value:  2683
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2683  M0V:   130
+Writing in DAC at address  172  value:  2684
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2684  M0V:   130
+Writing in DAC at address  172  value:  2685
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2685  M0V:   130
+Writing in DAC at address  172  value:  2686
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2686  M0V:   130
+Writing in DAC at address  172  value:  2687
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2687  M0V:   130
+Writing in DAC at address  172  value:  2688
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2688  M0V:   130
+Writing in DAC at address  172  value:  2689
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2689  M0V:   130
+Writing in DAC at address  172  value:  2690
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2690  M0V:   130
+Writing in DAC at address  172  value:  2691
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2691  M0V:   130
+Writing in DAC at address  172  value:  2692
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2692  M0V:   130
+Writing in DAC at address  172  value:  2693
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2693  M0V:   130
+Writing in DAC at address  172  value:  2694
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2694  M0V:   130
+Writing in DAC at address  172  value:  2695
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2695  M0V:   130
+Writing in DAC at address  172  value:  2696
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2696  M0V:   130
+Writing in DAC at address  172  value:  2697
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2697  M0V:   130
+Writing in DAC at address  172  value:  2698
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2698  M0V:   130
+Writing in DAC at address  172  value:  2699
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2699  M0V:   130
+Writing in DAC at address  172  value:  2700
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2700  M0V:   130
+Writing in DAC at address  172  value:  2701
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2701  M0V:   130
+Writing in DAC at address  172  value:  2702
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2702  M0V:   130
+Writing in DAC at address  172  value:  2703
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2703  M0V:   130
+Writing in DAC at address  172  value:  2704
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2704  M0V:   130
+Writing in DAC at address  172  value:  2705
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2705  M0V:   130
+Writing in DAC at address  172  value:  2706
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2706  M0V:   130
+Writing in DAC at address  172  value:  2707
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2707  M0V:   130
+Writing in DAC at address  172  value:  2708
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2708  M0V:   130
+Writing in DAC at address  172  value:  2709
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2709  M0V:   130
+Writing in DAC at address  172  value:  2710
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2710  M0V:   130
+Writing in DAC at address  172  value:  2711
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2711  M0V:   130
+Writing in DAC at address  172  value:  2712
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2712  M0V:   130
+Writing in DAC at address  172  value:  2713
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2713  M0V:   130
+Writing in DAC at address  172  value:  2714
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2714  M0V:   130
+Writing in DAC at address  172  value:  2715
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2715  M0V:   130
+Writing in DAC at address  172  value:  2716
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2716  M0V:   130
+Writing in DAC at address  172  value:  2717
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2717  M0V:   130
+Writing in DAC at address  172  value:  2718
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2718  M0V:   130
+Writing in DAC at address  172  value:  2719
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2719  M0V:   130
+Writing in DAC at address  172  value:  2720
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2720  M0V:   130
+Writing in DAC at address  172  value:  2721
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2721  M0V:   130
+Writing in DAC at address  172  value:  2722
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2722  M0V:   130
+Writing in DAC at address  172  value:  2723
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2723  M0V:   130
+Writing in DAC at address  172  value:  2724
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2724  M0V:   130
+Writing in DAC at address  172  value:  2725
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2725  M0V:   130
+Writing in DAC at address  172  value:  2726
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2726  M0V:   130
+Writing in DAC at address  172  value:  2727
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2727  M0V:   130
+Writing in DAC at address  172  value:  2728
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2728  M0V:   130
+Writing in DAC at address  172  value:  2729
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2729  M0V:   130
+Writing in DAC at address  172  value:  2730
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2730  M0V:   130
+Writing in DAC at address  172  value:  2731
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2731  M0V:   130
+Writing in DAC at address  172  value:  2732
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2732  M0V:   130
+Writing in DAC at address  172  value:  2733
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2733  M0V:   130
+Writing in DAC at address  172  value:  2734
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2734  M0V:   130
+Writing in DAC at address  172  value:  2735
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2735  M0V:   130
+Writing in DAC at address  172  value:  2736
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2736  M0V:   130
+Writing in DAC at address  172  value:  2737
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2737  M0V:   130
+Writing in DAC at address  172  value:  2738
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2738  M0V:   130
+Writing in DAC at address  172  value:  2739
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2739  M0V:   130
+Writing in DAC at address  172  value:  2740
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2740  M0V:   130
+Writing in DAC at address  172  value:  2741
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2741  M0V:   130
+Writing in DAC at address  172  value:  2742
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2742  M0V:   130
+Writing in DAC at address  172  value:  2743
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2743  M0V:   130
+Writing in DAC at address  172  value:  2744
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2744  M0V:   130
+Writing in DAC at address  172  value:  2745
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2745  M0V:   130
+Writing in DAC at address  172  value:  2746
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2746  M0V:   130
+Writing in DAC at address  172  value:  2747
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2747  M0V:   130
+Writing in DAC at address  172  value:  2748
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2748  M0V:   130
+Writing in DAC at address  172  value:  2749
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2749  M0V:   130
+Writing in DAC at address  172  value:  2750
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2750  M0V:   130
+Writing in DAC at address  172  value:  2751
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2751  M0V:   130
+Writing in DAC at address  172  value:  2752
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2752  M0V:   130
+Writing in DAC at address  172  value:  2753
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+2753  M0V:   130
+Writing in DAC at address  172  value:  2754
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2754  M0V:   130
+Writing in DAC at address  172  value:  2755
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2755  M0V:   130
+Writing in DAC at address  172  value:  2756
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+2756  M0V:   130
+Writing in DAC at address  172  value:  2757
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2757  M0V:   130
+Writing in DAC at address  172  value:  2758
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2758  M0V:   130
+Writing in DAC at address  172  value:  2759
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2759  M0V:   130
+Writing in DAC at address  172  value:  2760
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2760  M0V:   130
+Writing in DAC at address  172  value:  2761
+0x000000AC: 0x00000000
+0x00000006: 0x00000000
+2761  M0V:   130
+Writing in DAC at address  172  value:  2762
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2762  M0V:   130
+Writing in DAC at address  172  value:  2763
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2763  M0V:   130
+Writing in DAC at address  172  value:  2764
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2764  M0V:   130
+Writing in DAC at address  172  value:  2765
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2765  M0V:   130
+Writing in DAC at address  172  value:  2766
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2766  M0V:   130
+Writing in DAC at address  172  value:  2767
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2767  M0V:   130
+Writing in DAC at address  172  value:  2768
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2768  M0V:   130
+Writing in DAC at address  172  value:  2769
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2769  M0V:   130
+Writing in DAC at address  172  value:  2770
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2770  M0V:   130
+Writing in DAC at address  172  value:  2771
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2771  M0V:   130
+Writing in DAC at address  172  value:  2772
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2772  M0V:   130
+Writing in DAC at address  172  value:  2773
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2773  M0V:   130
+Writing in DAC at address  172  value:  2774
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2774  M0V:   130
+Writing in DAC at address  172  value:  2775
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2775  M0V:   130
+Writing in DAC at address  172  value:  2776
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2776  M0V:   130
+Writing in DAC at address  172  value:  2777
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2777  M0V:   130
+Writing in DAC at address  172  value:  2778
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2778  M0V:   130
+Writing in DAC at address  172  value:  2779
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2779  M0V:   130
+Writing in DAC at address  172  value:  2780
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2780  M0V:   130
+Writing in DAC at address  172  value:  2781
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2781  M0V:   130
+Writing in DAC at address  172  value:  2782
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2782  M0V:   130
+Writing in DAC at address  172  value:  2783
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2783  M0V:   130
+Writing in DAC at address  172  value:  2784
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2784  M0V:   130
+Writing in DAC at address  172  value:  2785
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2785  M0V:   130
+Writing in DAC at address  172  value:  2786
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2786  M0V:   130
+Writing in DAC at address  172  value:  2787
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2787  M0V:   130
+Writing in DAC at address  172  value:  2788
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2788  M0V:   130
+Writing in DAC at address  172  value:  2789
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2789  M0V:   130
+Writing in DAC at address  172  value:  2790
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2790  M0V:   130
+Writing in DAC at address  172  value:  2791
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2791  M0V:   130
+Writing in DAC at address  172  value:  2792
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2792  M0V:   130
+Writing in DAC at address  172  value:  2793
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2793  M0V:   130
+Writing in DAC at address  172  value:  2794
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2794  M0V:   130
+Writing in DAC at address  172  value:  2795
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2795  M0V:   130
+Writing in DAC at address  172  value:  2796
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2796  M0V:   130
+Writing in DAC at address  172  value:  2797
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2797  M0V:   130
+Writing in DAC at address  172  value:  2798
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2798  M0V:   130
+Writing in DAC at address  172  value:  2799
+0x000000AC: 0x00000000
+0x00000006: 0x00000008
+2799  M0V:   130

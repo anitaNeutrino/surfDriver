@@ -1,0 +1,231 @@
+make -C /lib/modules/3.15.8-200.fc20.x86_64/build M=/home/anita/surfDriver modules
+make[1]: Entering directory `/usr/src/kernels/3.15.8-200.fc20.x86_64'
+  CC [M]  /home/anita/surfDriver/sD_main.o
+/home/anita/surfDriver/sD_main.c:68:2: warning: excess elements in array initializer [enabled by default]
+  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+  ^
+/home/anita/surfDriver/sD_main.c:68:2: warning: (near initialization for ‘exclude_devno’) [enabled by default]
+/home/anita/surfDriver/sD_main.c: In function ‘surfDriver_init’:
+/home/anita/surfDriver/sD_main.c:82:9: warning: unused variable ‘dev’ [-Wunused-variable]
+   dev_t dev;
+         ^
+In file included from /home/anita/surfDriver/sD_main.c:17:0:
+/home/anita/surfDriver/sD_main.c: In function ‘surfDriver_probe’:
+/home/anita/surfDriver/sD_main.c:192:59: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+   DEBUG("surfDriver: plx (0x%X) at 0x%X\n", startAddress, (unsigned int) surfList[i].plx);
+                                                           ^
+/home/anita/surfDriver/surfDriver.h:186:56: note: in definition of macro ‘DEBUG’
+ #define DEBUG(format, ...) printk(KERN_INFO format, ## __VA_ARGS__)
+                                                        ^
+/home/anita/surfDriver/sD_main.c:192:3: warning: format ‘%X’ expects argument of type ‘unsigned int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+   DEBUG("surfDriver: plx (0x%X) at 0x%X\n", startAddress, (unsigned int) surfList[i].plx);
+   ^
+/home/anita/surfDriver/sD_main.c:218:3: warning: format ‘%X’ expects argument of type ‘unsigned int’, but argument 2 has type ‘struct surfDriver_regs *’ [-Wformat=]
+   DEBUG("surfDriver: surf registers at 0x%8.8X\n", surfList[i].surf);
+   ^
+/home/anita/surfDriver/sD_main.c:219:3: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 2 has type ‘volatile unsigned int *’ [-Wformat=]
+   DEBUG("surfDriver: HK space at 0x%8.8x\n", surfList[i].hk);
+   ^
+/home/anita/surfDriver/sD_main.c:220:3: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 2 has type ‘volatile unsigned int *’ [-Wformat=]
+   DEBUG("surfDriver: LAB space at 0x%8.8x\n", surfList[i].lab);   
+   ^
+/home/anita/surfDriver/sD_main.c:169:20: warning: ignoring return value of ‘pci_enable_device’, declared with attribute warn_unused_result [-Wunused-result]
+   pci_enable_device(dev);
+                    ^
+  CC [M]  /home/anita/surfDriver/sD_plx.o
+/home/anita/surfDriver/sD_plx.c: In function ‘surfDriver_setupTiming’:
+/home/anita/surfDriver/sD_plx.c:24:3: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 2 has type ‘struct pci9030_regs *’ [-Wformat=]
+   devp->plx->las0brd);
+   ^
+/home/anita/surfDriver/sD_plx.c:24:3: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 3 has type ‘unsigned int *’ [-Wformat=]
+/home/anita/surfDriver/sD_plx.c:30:4: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 2 has type ‘struct pci9030_regs *’ [-Wformat=]
+    devp->plx->cntrl);
+    ^
+/home/anita/surfDriver/sD_plx.c:30:4: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 3 has type ‘unsigned int *’ [-Wformat=]
+/home/anita/surfDriver/sD_plx.c:15:18: warning: unused variable ‘val’ [-Wunused-variable]
+     unsigned int val;
+                  ^
+/home/anita/surfDriver/sD_plx.c: In function ‘surfDriver_setupGPIOs’:
+/home/anita/surfDriver/sD_plx.c:48:4: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 2 has type ‘struct pci9030_regs *’ [-Wformat=]
+    devp->plx->gpioc);
+    ^
+/home/anita/surfDriver/sD_plx.c:48:4: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 3 has type ‘unsigned int *’ [-Wformat=]
+  CC [M]  /home/anita/surfDriver/sD_char.o
+/home/anita/surfDriver/sD_char.c: In function ‘surfDriver_read’:
+/home/anita/surfDriver/sD_char.c:155:5: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘size_t’ [-Wformat=]
+     DEBUG("surfDriver_read (surf_DataRead): %d bytes\n", count);
+     ^
+/home/anita/surfDriver/sD_char.c:183:5: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+     if (ret = surfDriver_user_datatransfer(devp, buff, count))
+     ^
+/home/anita/surfDriver/sD_char.c:191:5: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘size_t’ [-Wformat=]
+     DEBUG("surfDriver_read (surf_HkRead): %d bytes\n", count);
+     ^
+/home/anita/surfDriver/sD_char.c:198:5: warning: passing argument 2 of ‘surfDriver_hktransfer’ from incompatible pointer type [enabled by default]
+     surfDriver_hktransfer(devp, buffer, count);
+     ^
+In file included from /home/anita/surfDriver/sD_char.c:22:0:
+/home/anita/surfDriver/surfDriver.h:172:15: note: expected ‘unsigned int *’ but argument is of type ‘unsigned char *’
+ unsigned int *surfDriver_hktransfer(struct surfDriver_dev *devp,
+               ^
+/home/anita/surfDriver/sD_char.c: In function ‘surfDriver_write’:
+/home/anita/surfDriver/sD_char.c:217:3: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘size_t’ [-Wformat=]
+   DEBUG("surfDriver_write: %d bytes\n", count);
+   ^
+/home/anita/surfDriver/sD_char.c: In function ‘surfDriver_loaddac’:
+/home/anita/surfDriver/sD_char.c:382:2: warning: passing argument 1 of ‘memcpy’ discards ‘volatile’ qualifier from pointer target type [enabled by default]
+  memcpy(devp->hk, buffer, length);
+  ^
+In file included from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/string.h:4:0,
+                 from include/linux/string.h:17,
+                 from include/linux/bitmap.h:8,
+                 from include/linux/cpumask.h:11,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/cpumask.h:4,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/msr.h:10,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/processor.h:20,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/thread_info.h:23,
+                 from include/linux/thread_info.h:54,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/preempt.h:6,
+                 from include/linux/preempt.h:18,
+                 from include/linux/spinlock.h:50,
+                 from include/linux/seqlock.h:35,
+                 from include/linux/time.h:5,
+                 from include/linux/stat.h:18,
+                 from include/linux/module.h:10,
+                 from /home/anita/surfDriver/sD_char.c:9:
+/usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/string_64.h:32:14: note: expected ‘void *’ but argument is of type ‘volatile unsigned int *’
+ extern void *memcpy(void *to, const void *from, size_t len);
+              ^
+/home/anita/surfDriver/sD_char.c:387:2: warning: passing argument 1 of ‘memcpy’ discards ‘volatile’ qualifier from pointer target type [enabled by default]
+  memcpy(devp->hk, buffer, sizeof(unsigned int)*32);
+  ^
+In file included from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/string.h:4:0,
+                 from include/linux/string.h:17,
+                 from include/linux/bitmap.h:8,
+                 from include/linux/cpumask.h:11,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/cpumask.h:4,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/msr.h:10,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/processor.h:20,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/thread_info.h:23,
+                 from include/linux/thread_info.h:54,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/preempt.h:6,
+                 from include/linux/preempt.h:18,
+                 from include/linux/spinlock.h:50,
+                 from include/linux/seqlock.h:35,
+                 from include/linux/time.h:5,
+                 from include/linux/stat.h:18,
+                 from include/linux/module.h:10,
+                 from /home/anita/surfDriver/sD_char.c:9:
+/usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/string_64.h:32:14: note: expected ‘void *’ but argument is of type ‘volatile unsigned int *’
+ extern void *memcpy(void *to, const void *from, size_t len);
+              ^
+/home/anita/surfDriver/sD_char.c:369:24: warning: unused variable ‘mode’ [-Wunused-variable]
+   enum surfDriver_mode mode;
+                        ^
+/home/anita/surfDriver/sD_char.c:368:26: warning: unused variable ‘ioaddr’ [-Wunused-variable]
+   volatile unsigned int *ioaddr;
+                          ^
+/home/anita/surfDriver/sD_char.c:367:17: warning: unused variable ‘p’ [-Wunused-variable]
+   unsigned int *p;
+                 ^
+/home/anita/surfDriver/sD_char.c:366:7: warning: unused variable ‘i’ [-Wunused-variable]
+   int i;
+       ^
+/home/anita/surfDriver/sD_char.c: In function ‘surfDriver_housekeepingRequest’:
+/home/anita/surfDriver/sD_char.c:464:26: warning: unused variable ‘mode’ [-Wunused-variable]
+     enum surfDriver_mode mode;
+                          ^
+/home/anita/surfDriver/sD_char.c: In function ‘surfDriver_setmode’:
+/home/anita/surfDriver/sD_char.c:497:26: warning: unused variable ‘plxBase’ [-Wunused-variable]
+   volatile unsigned int *plxBase;
+                          ^
+/home/anita/surfDriver/sD_char.c:496:17: warning: unused variable ‘val’ [-Wunused-variable]
+   unsigned char val[2];
+                 ^
+/home/anita/surfDriver/sD_char.c:495:16: warning: unused variable ‘gpios’ [-Wunused-variable]
+   enum plxGPIO gpios[2] = {surfGPIO_RD_notWR, surfGPIO_DAT_nHK};
+                ^
+  CC [M]  /home/anita/surfDriver/sD_transfer.o
+/home/anita/surfDriver/sD_transfer.c: In function ‘surfDriver_user_datatransfer’:
+/home/anita/surfDriver/sD_transfer.c:17:32: warning: unused variable ‘id’ [-Wunused-variable]
+    unsigned int buffer_status, id;
+                                ^
+/home/anita/surfDriver/sD_transfer.c:17:17: warning: unused variable ‘buffer_status’ [-Wunused-variable]
+    unsigned int buffer_status, id;
+                 ^
+/home/anita/surfDriver/sD_transfer.c: In function ‘surfDriver_datatransfer’:
+/home/anita/surfDriver/sD_transfer.c:65:5: warning: assignment from incompatible pointer type [enabled by default]
+   p = devp->lab;
+     ^
+/home/anita/surfDriver/sD_transfer.c:66:8: warning: assignment from incompatible pointer type [enabled by default]
+   bufp = buffer;   
+        ^
+/home/anita/surfDriver/sD_transfer.c:72:2: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 3 has type ‘volatile unsigned char *’ [-Wformat=]
+  DEBUG("surfDriver_datatransfer: %d bytes from %8.8x to %8.8x\n",
+  ^
+/home/anita/surfDriver/sD_transfer.c:72:2: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 4 has type ‘unsigned char *’ [-Wformat=]
+/home/anita/surfDriver/sD_transfer.c:75:2: warning: passing argument 2 of ‘ntl_memcpy_64’ discards ‘volatile’ qualifier from pointer target type [enabled by default]
+  ntl_memcpy_64(bufp, p, count_lp); 
+  ^
+/home/anita/surfDriver/sD_transfer.c:9:6: note: expected ‘void *’ but argument is of type ‘volatile unsigned char *’
+ void ntl_memcpy_64(void *to, void *from, size_t size);
+      ^
+/home/anita/surfDriver/sD_transfer.c:53:7: warning: unused variable ‘i’ [-Wunused-variable]
+   int i;
+       ^
+/home/anita/surfDriver/sD_transfer.c: In function ‘ntl_memcpy_64’:
+/home/anita/surfDriver/sD_transfer.c:134:9: warning: format ‘%llu’ expects argument of type ‘long long unsigned int’, but argument 3 has type ‘size_t’ [-Wformat=]
+         i, size);
+         ^
+  CC [M]  /home/anita/surfDriver/sD_sysfs.o
+In file included from include/linux/cpumask.h:12:0,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/cpumask.h:4,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/msr.h:10,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/processor.h:20,
+                 from /usr/src/kernels/3.15.8-200.fc20.x86_64/arch/x86/include/asm/atomic.h:6,
+                 from include/linux/atomic.h:4,
+                 from include/linux/mutex.h:18,
+                 from include/linux/kernfs.h:13,
+                 from include/linux/sysfs.h:15,
+                 from /home/anita/surfDriver/sD_sysfs.c:8:
+include/linux/bug.h:33:45: warning: initialization from incompatible pointer type [enabled by default]
+ #define BUILD_BUG_ON_ZERO(e) (sizeof(struct { int:-!!(e); }))
+                                             ^
+include/linux/kernel.h:851:3: note: in expansion of macro ‘BUILD_BUG_ON_ZERO’
+   BUILD_BUG_ON_ZERO((((perms) >> 3) & 7) < ((perms) & 7)) + \
+   ^
+include/linux/sysfs.h:75:12: note: in expansion of macro ‘VERIFY_OCTAL_PERMISSIONS’
+    .mode = VERIFY_OCTAL_PERMISSIONS(_mode) },  \
+            ^
+/home/anita/surfDriver/sD_sysfs.c:58:3: note: in expansion of macro ‘__ATTR’
+   __ATTR(readoutMode, S_IRUGO, surfDriver_readReadoutMode, NULL),
+   ^
+include/linux/bug.h:33:45: warning: (near initialization for ‘surf_class_attrs[0].show’) [enabled by default]
+ #define BUILD_BUG_ON_ZERO(e) (sizeof(struct { int:-!!(e); }))
+                                             ^
+include/linux/kernel.h:851:3: note: in expansion of macro ‘BUILD_BUG_ON_ZERO’
+   BUILD_BUG_ON_ZERO((((perms) >> 3) & 7) < ((perms) & 7)) + \
+   ^
+include/linux/sysfs.h:75:12: note: in expansion of macro ‘VERIFY_OCTAL_PERMISSIONS’
+    .mode = VERIFY_OCTAL_PERMISSIONS(_mode) },  \
+            ^
+/home/anita/surfDriver/sD_sysfs.c:58:3: note: in expansion of macro ‘__ATTR’
+   __ATTR(readoutMode, S_IRUGO, surfDriver_readReadoutMode, NULL),
+   ^
+/home/anita/surfDriver/sD_sysfs.c: In function ‘plxRegisters_show’:
+/home/anita/surfDriver/sD_sysfs.c:167:2: warning: format ‘%X’ expects argument of type ‘unsigned int’, but argument 3 has type ‘long unsigned int’ [-Wformat=]
+  sprintf(myBuffer, "%2.2X: %8.8X\n", i*sizeof(int), *(plxBase+i));
+  ^
+/home/anita/surfDriver/sD_sysfs.c: In function ‘surfDriver_addSurfDevice’:
+/home/anita/surfDriver/sD_sysfs.c:227:17: warning: assignment from incompatible pointer type [enabled by default]
+   devp->surfDev = device_create(&surfClass,
+                 ^
+/home/anita/surfDriver/sD_sysfs.c:222:7: warning: unused variable ‘ret’ [-Wunused-variable]
+   int ret;
+       ^
+  LD [M]  /home/anita/surfDriver/surfDriver.o
+  Building modules, stage 2.
+  MODPOST 1 modules
+  CC      /home/anita/surfDriver/surfDriver.mod.o
+  LD [M]  /home/anita/surfDriver/surfDriver.ko
+make[1]: Leaving directory `/usr/src/kernels/3.15.8-200.fc20.x86_64'

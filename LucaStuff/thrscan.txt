@@ -1,0 +1,43 @@
+Writing in DAC at address  168  value:  1500
+0x000000A8: 0x00900082
+0x00000006: 0x00000008
+1500  T0V:     0
+Writing in DAC at address  168  value:  1501
+0x000000A8: 0x00000000
+0x00000006: 0x00000008
+1501  T0V:     0
+Writing in DAC at address  168  value:  1502
+0x000000A8: 0x00000000
+0x00000006: 0x00000008
+1502  T0V:     0
+Writing in DAC at address  168  value:  1503
+0x000000A8: 0x00000000
+0x00000006: 0x00000008
+1503  T0V:     0
+Writing in DAC at address  168  value:  1504
+0x000000A8: 0x00000000
+0x00000006: 0x00000008
+1504  T0V:     0
+Writing in DAC at address  168  value:  1505
+0x000000A8: 0x00000000
+0x00000006: 0x00000008
+1505  T0V:     0
+Writing in DAC at address  168  value:  1506
+0x000000A8: 0x00000000
+0x00000006: 0x00000008
+1506  T0V:     0
+Writing in DAC at address  168  value:  1507
+0x000000A8: 0x00000000
+0x00000006: 0x00000008
+1507  T0V:     0
+Writing in DAC at address  168  value:  1508
+0x000000A8: 0x00000000
+0x00000006: 0x00000008
+1508  T0V:     0
+Writing in DAC at address  168  value:  1509
+0x000000A8: 0x00000000
+0x00000006: 0x00000008
+1509  T0V:     0
+Writing in DAC at address  168  value:  1510
+0x000000A8: 0x00000000
+0x00000006: 0x00000008

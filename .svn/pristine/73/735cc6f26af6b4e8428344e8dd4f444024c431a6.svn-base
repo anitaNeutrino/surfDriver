@@ -1,0 +1,239 @@
+/*
+ *
+ * surfDriver: sD_plx.c
+ *
+ * PLX interface. This is pretty non-surfDriver generic stuff.
+ *
+ * PSA v1.0 03/21/08
+ */
+
+#include "surfDriver.h"
+
+#define PLX9030_GPIOC 0x54
+
+/*
+ * All of the DEBUGs in the plx9030_ functions were removed.
+ * They'll probably be added back in later if it gets turned
+ * into a generic module, and be enableable through a module
+ * parameter.
+ */
+
+
+/*
+ * ALL of these functions DO NOT TAKE INTO ACCOUNT semaphore locking.
+ * They know NOTHING about surfDriver_dev structs. Lock the device before
+ * these are called.
+ */
+
+/*
+ * Toggles a GPIO pin - that is, lowers it if its high, then raises it.
+ * Raises it if it's low, then lowers it.
+ */
+void plx9030_toggle(volatile unsigned int *plxBase, enum plxGPIO toggle) {
+  unsigned int gpioval;
+  volatile unsigned int *gpioc;
+
+  gpioc = ((unsigned char *)plxBase + PLX9030_GPIOC);
+  gpioval = *gpioc;
+//  These are getting a little silly.
+//  DEBUG("plx9030_toggle: gpioc: %o\n", gpioval);
+  
+  if (gpioval & toggle) {
+    *gpioc = gpioval & ~((unsigned int) toggle);
+  }
+  else {
+    *gpioc = gpioval | ((unsigned int) toggle);    
+  }
+  // wait for a little bit?
+  // not needed
+//  DEBUG("plx9030_toggle: gpioc: %o\n", *gpioc);
+//  DEBUG("plx9030_toggle: gpioc: %o\n", *gpioc);
+//  DEBUG("plx9030_toggle: gpioc: %o\n", *gpioc);
+  *gpioc = gpioval;
+//  DEBUG("plx9030_toggle: gpioc: %o\n", *gpioc);
+}
+
+void plx9030_setgpio(volatile unsigned int *plxBase, enum plxGPIO gpio,
+		     unsigned char val) {
+  unsigned int gpioval;
+  volatile unsigned int *gpioc;
+  
+  gpioc = ((unsigned char *)plxBase + PLX9030_GPIOC);
+  gpioval = *gpioc;
+//  DEBUG("plx9030_setgpio: gpioc: %o\n", gpioval);
+
+  if (val) {
+    *gpioc = gpioval | ((unsigned int) gpio);
+  } else {
+    *gpioc = gpioval & ~((unsigned int) gpio);
+  }
+}
+
+/*
+ * Beh, I hate these functions... oh well. They work.
+ */
+void plx9030_setgpios(volatile unsigned int *plxBase, 
+		      enum plxGPIO *gpio,
+		      unsigned char *val,
+		      unsigned int ngpios) {
+  int i;
+  unsigned int gpioval;
+  volatile unsigned int *gpioc = ((unsigned char *) plxBase + PLX9030_GPIOC);
+  if (!gpio || !val) return;
+  gpioval = *gpioc;
+//  DEBUG("plx9030_setgpios: gpioc: %o\n", gpioval);
+  
+  for (i=0;i<ngpios;i++) {
+    if (val[i]) {
+      gpioval = gpioval | ((unsigned int) gpio[i]);
+    }
+    else {
+      gpioval = gpioval & ~((unsigned int) gpio[i]);
+    }
+  }
+//  DEBUG("going to write %o\n", gpioval);
+  *gpioc = gpioval;
+//  DEBUG("plx9030_setgpios: gpioc: %o\n", *gpioc);
+}
+
+/*
+ * Returns zero if zero, returns NON-zero (not 1!) if it's 1.
+ */
+unsigned int plx9030_getgpio(volatile unsigned int *plxBase, enum plxGPIO gpio) {
+  return (*(((unsigned char*) plxBase+PLX9030_GPIOC)) & gpio);
+}
+
+/*
+ * Set direction of GPIO pin. Note that all GPIO direction bits are
+ * 1 below their value bit. That's why we can downshift the enum.
+ *
+ * In is zero, out is 1.
+ */
+void plx9030_setgpiodirection(volatile unsigned int *plxBase,
+			      enum plxGPIO gpio,
+			      enum plxGPIODIR dir) {
+  unsigned int gpioval;
+  volatile unsigned int *gpioc = ((unsigned char *) plxBase + PLX9030_GPIOC);
+  
+  gpioval = *gpioc;
+  if (dir == plxDirectionIn) {
+    *gpioc = (gpioval & ~(((unsigned int) gpio)>>1));
+  } else {
+    *gpioc = (gpioval | (((unsigned int) gpio)>>1));
+  }
+//  DEBUG("plx9030_setgpiodirection: gpioc %o\n", *gpioc);
+}
+
+unsigned int plx9030_gpioc(volatile unsigned int *plxBase,
+			   unsigned int *gpiovalp) {
+  volatile unsigned int *gpioc = ((unsigned char *) plxBase+PLX9030_GPIOC);
+  
+  if (gpiovalp)
+    *gpioc = *gpiovalp;
+  return *gpioc;
+}
+
+#define PLX9030_LAS0BRD 0x28
+
+#define PLX9030_BRD_BURST_ENABLE (0x1 << 0)
+#define PLX9030_BRD_NREADY_ENABLE (0x1 << 1)
+#define PLX9030_BRD_BTERM_ENABLE (0x1 << 2)
+#define PLX9030_BRD_PREFETCH_COUNT(x) (x<<3)
+#define PLX9030_BRD_PREFETCH_ENABLE (0x1 << 5)
+#define PLX9030_BRD_NRAD_WS(x) (x<<6)
+#define PLX9030_BRD_NRDD_WS(x) (x<<11)
+#define PLX9030_BRD_NXDA_WS(x) (x<<13)
+#define PLX9030_BRD_NWDA_WS(x) (x<<15)
+#define PLX9030_BRD_NWDD_WS(x) (x<<20)
+#define PLX9030_BRD_BUS_WIDTH_8 (0x0 << 22)
+#define PLX9030_BRD_BUS_WIDTH_16 (0x1 << 22)
+#define PLX9030_BRD_BUS_WIDTH_32 (0x2 << 22)
+#define PLX9030_BRD_BIG_ENDIAN (0x1 << 24)
+#define PLX9030_BRD_BIG_ENDIAN_BYTE_LANE (0x1 << 25)
+#define PLX9030_BRD_RS_DELAY(x) (x<<26)
+#define PLX9030_BRD_WS_DELAY(x) (x<<28)
+#define PLX9030_BRD_WS_HOLD(x) (x<<30)
+
+#define PLX9030_CTRL 0x50
+
+void surfDriver_setupTiming(struct surfDriver_dev *devp,
+			    unsigned char ultrafast) {
+    volatile unsigned int *las0brd;
+    volatile unsigned int *ctrl;
+
+    unsigned int val;
+    las0brd = (unsigned int *) (((unsigned char *) devp->plxBase)+
+				PLX9030_LAS0BRD);
+    if (ultrafast == 0) { // we want normal speed readout
+	val = PLX9030_BRD_NREADY_ENABLE |
+	    PLX9030_BRD_BUS_WIDTH_32;
+    } else {
+	val = 
+	    PLX9030_BRD_BURST_ENABLE |
+	    PLX9030_BRD_BTERM_ENABLE |
+	    PLX9030_BRD_PREFETCH_COUNT(3) |
+	    PLX9030_BRD_PREFETCH_ENABLE |
+	    PLX9030_BRD_NRAD_WS(1) |
+	    PLX9030_BRD_NRDD_WS(1) |
+	    PLX9030_BRD_BUS_WIDTH_32;
+    }
+    DEBUG("surfDriver_setupTiming: LAS0BRD: 0x%8.8X\n",
+	  val);
+    *las0brd = val;
+    DEBUG("surfDriver_setupTiming: LAS0BRD readback: 0x%8.8X\n",
+	  *las0brd);
+
+    ctrl = (unsigned int *) (((unsigned char *) devp->plxBase) +
+			     PLX9030_CTRL);
+    val = *ctrl;
+    if (ultrafast) {
+	// PCI Read No Flush Mode (PCI Target Read Ahead Mode)
+	val |= (1<<16);
+    } else {
+	// disable PCI Read No Flush Mode (no burst transfers)
+	val &= ~(1<<16);
+    }
+    *ctrl = val;
+    DEBUG("surfDriver_setupTiming: CTRL readback: 0x%8.8X\n",
+	  val);
+}
+
+#define PLX9030_LAS0RR 0x00
+#define PLX9030_RR_PREFETCHABLE (0x1 << 3)
+
+void surfDriver_remapPlx(struct surfDriver_dev *devp,
+			 unsigned long startAddr,
+			 int size,
+			 int prefetchable) {
+    volatile unsigned int *las0rr;
+    unsigned int pcibar2;
+
+    las0rr = (unsigned int *) (((unsigned char *) devp->plxBase) +
+			       PLX9030_LAS0RR);
+    size = -size; // two's complement
+    DEBUG("surfDriver_remapPlx: pre: las0rr: 0x%X\n",
+	  *las0rr);
+    if (prefetchable)
+	*las0rr = ((unsigned int)size | PLX9030_RR_PREFETCHABLE);
+    else
+	*las0rr = ((unsigned int)size);
+    DEBUG("surfDriver_remapPlx: post: las0rr: 0x%X\n",
+	  *las0rr);
+    pci_read_config_dword(devp->dev, PCI_BASE_ADDRESS_2, &pcibar2);
+    DEBUG("surfDriver_remapPlx: pre: PCIBAR2: 0x%X\n",
+	  pcibar2);
+    pci_write_config_dword(devp->dev, PCI_BASE_ADDRESS_2,
+			   startAddr | 0x1);
+    pci_read_config_dword(devp->dev, PCI_BASE_ADDRESS_2, &pcibar2);
+    DEBUG("surfDriver_remapPlx: post: PCIBAR2: 0x%X\n",
+	  pcibar2);
+}
+
+
+void surfDriver_setupGPIOs(struct surfDriver_dev *devp) {
+    unsigned int gpioc_default = 022222220;
+    // default
+    plx9030_gpioc(devp->plxBase, &gpioc_default);
+    // pointless, but debug
+    plx9030_setgpiodirection(devp->plxBase, surfGPIO_ED_Ready, 0);
+}

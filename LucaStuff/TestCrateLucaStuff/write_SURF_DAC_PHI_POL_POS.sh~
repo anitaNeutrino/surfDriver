@@ -1,0 +1,47 @@
+#!/bin/sh
+
+case  $1  in
+                0VT)
+                    let addr=0
+                    ;;
+                0HT)
+                    let addr=6
+                    ;;
+                0VM)
+                    let addr=1
+                    ;;
+                0HM)
+                    let addr=7
+                    ;;
+                0VB)
+                    let addr=2
+                    ;;
+                0HB)
+                    let addr=8
+                    ;;
+                1VT)
+                    let addr=3
+                    ;;
+                1HT)
+                    let addr=9
+                    ;;
+                1VM)
+                    let addr=4
+                    ;;
+                1HM)
+                    let addr=10
+                    ;;
+                1VB)
+                    let addr=5
+                    ;;
+                1HB)
+                    let addr=11
+                    ;;
+              *)
+                    echo "Error: antenna " $1 " does not exist"
+                    exit
+          esac
+echo "Writing in DAC at address " $addr  " value: " $2
+sudo /home/anita/surfDriver/sio w $addr $2
+sudo /home/anita/surfDriver/sio w 6 4
+

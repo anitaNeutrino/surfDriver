@@ -1,0 +1,47 @@
+#include <linux/kernel.h>
+#include <linux/module.h>
+#include <asm/uaccess.h>
+#include <asm/i387.h>
+
+#include "surfDriver.h"
+
+unsigned int *surfDriver_datatransfer(struct surfDriver_dev *devp,
+				      unsigned int *buffer,
+				      unsigned int count) {
+  int i;
+  volatile unsigned int *p;
+
+  unsigned int *bufp;
+  /*
+   * Test braindead readout.
+   */
+  p = devp->las0Base;
+  bufp = buffer;
+
+  for (i=0;i<count;i+=sizeof(int)) {
+    *bufp++ = *p++;
+  }
+
+  return buffer;
+}
+
+unsigned int *surfDriver_hktransfer(struct surfDriver_dev *devp,
+				      unsigned int *buffer,
+				      unsigned int count) {
+  int i;
+  volatile unsigned int *p;
+  unsigned int *bufp;
+  /*
+   * Test braindead readout.
+   */
+  p = devp->las0Base;
+  bufp = buffer;
+  for (i=0;i<count;i+=sizeof(int)) {
+    *bufp=*p;
+    p++;
+    bufp++;
+  }
+  return buffer;
+}
+
+
